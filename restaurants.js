@@ -1869,7 +1869,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Chinese",
     "dish": "Fried pork and chive dumplings",
-    "blurb": "Sunset Park dumpling shop. Fried pork and chive dumplings."
+    "blurb": "Sunset Park dumpling shop, also on the soup dumpling list. Fried pork and chive dumplings."
   },
   {
     "id": "tony-s-beechhurst-deli-whitestone",
@@ -2192,6 +2192,406 @@ window.FOOD_SPOTS = [
     "cuisine": "Burger",
     "dish": "Burger on white bread",
     "blurb": "Not in New York. Sliced white bread, no ketchup, and they claim the first burger. 8.5/10."
+  },
+  {
+    "id": "joe-s-shanghai-chinatown",
+    "name": "Joe's Shanghai",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "46 Bowery, New York, NY 10013",
+    "lat": 40.71562857865,
+    "lng": -73.996516915594,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Soup dumplings at the Bowery shop, the one that moved off Pell Street."
+  },
+  {
+    "id": "shanghai-21-chinatown",
+    "name": "Shanghai 21",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "21 Mott St, New York, NY 10013",
+    "lat": 40.714434106307,
+    "lng": -73.998861228821,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Soup dumplings on Mott Street."
+  },
+  {
+    "id": "bao-noodle-house-chinatown",
+    "name": "Bao Noodle House",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "110 Bowery, New York, NY 10013",
+    "lat": 40.718023557455,
+    "lng": -73.995118143045,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Noodles and dumplings",
+    "blurb": "On the Bowery, from the soup dumpling list."
+  },
+  {
+    "id": "grandma-s-dumpling-house-chinatown",
+    "name": "Grandma's Dumpling House",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "24 Pell St, New York, NY 10013",
+    "lat": 40.714895741643,
+    "lng": -73.998105809899,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Dumplings",
+    "blurb": "Dumplings on Pell Street."
+  },
+  {
+    "id": "nan-xiang-xiao-long-bao-east-village",
+    "name": "Nan Xiang Xiao Long Bao",
+    "area": "East Village",
+    "borough": "Manhattan",
+    "address": "15 St Marks Pl, New York, NY 10003",
+    "lat": 40.729223731007,
+    "lng": -73.988983045992,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Soup dumplings on St. Marks Place."
+  },
+  {
+    "id": "tipsy-shanghai-east-village",
+    "name": "Tipsy Shanghai",
+    "area": "East Village",
+    "borough": "Manhattan",
+    "address": "104 2nd Ave, New York, NY 10003",
+    "lat": 40.727426802732,
+    "lng": -73.988437055884,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Shanghainese",
+    "blurb": "Shanghainese on Second Avenue."
+  },
+  {
+    "id": "nan-xiang-xiao-long-bao-koreatown",
+    "name": "Nan Xiang Xiao Long Bao",
+    "area": "Koreatown",
+    "borough": "Manhattan",
+    "address": "24 W 33rd St, New York, NY 10001",
+    "lat": 40.74802225236,
+    "lng": -73.985805743808,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Soup dumplings on 33rd Street in Koreatown."
+  },
+  {
+    "id": "joe-s-home-of-soup-dumplings-midtown-east",
+    "name": "Joe's Home of Soup Dumplings",
+    "area": "Midtown East",
+    "borough": "Manhattan",
+    "address": "7 E 48th St, New York, NY 10017",
+    "lat": 40.757268291835,
+    "lng": -73.977923994588,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Soup dumplings on 48th Street. A different shop from Joe's Shanghai."
+  },
+  {
+    "id": "real-kung-fu-little-steamed-buns-ramen-hell-s-kitchen",
+    "name": "Real Kung Fu Little Steamed Buns Ramen",
+    "area": "Hell's Kitchen",
+    "borough": "Manhattan",
+    "address": "811 8th Ave, New York, NY 10019",
+    "lat": 40.761588145609,
+    "lng": -73.986697115921,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Little steamed buns on Eighth Avenue. This pin is the Hell's Kitchen shop."
+  },
+  {
+    "id": "dim-sum-palace-hell-s-kitchen",
+    "name": "Dim Sum Palace",
+    "area": "Hell's Kitchen",
+    "borough": "Manhattan",
+    "address": "334 W 46th St, New York, NY 10036",
+    "lat": 40.760250688755,
+    "lng": -73.989165459232,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Dim sum",
+    "blurb": "The West 46th Street shop. There are other Dim Sum Palace locations."
+  },
+  {
+    "id": "nan-xiang-express-upper-west-side",
+    "name": "Nan Xiang Express",
+    "area": "Upper West Side",
+    "borough": "Manhattan",
+    "address": "2783 Broadway, New York, NY 10025",
+    "lat": 40.801088098654,
+    "lng": -73.96798893499,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "The Broadway express shop, an offshoot of the Flushing Nan Xiang."
+  },
+  {
+    "id": "shanghai-dumplings-fusion-upper-west-side",
+    "name": "Shanghai Dumplings Fusion",
+    "area": "Upper West Side",
+    "borough": "Manhattan",
+    "address": "158 W 72nd St, New York, NY 10023",
+    "lat": 40.778061028788,
+    "lng": -73.980496280064,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Soup dumplings on 72nd Street."
+  },
+  {
+    "id": "tri-dim-shanghai-west-upper-west-side",
+    "name": "Tri Dim Shanghai West",
+    "area": "Upper West Side",
+    "borough": "Manhattan",
+    "address": "467 Columbus Ave, New York, NY 10024",
+    "lat": 40.784121326635,
+    "lng": -73.973809313055,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Shanghainese",
+    "blurb": "The Columbus Avenue shop. There is also an Upper East Side location."
+  },
+  {
+    "id": "la-salle-dumpling-room-upper-west-side",
+    "name": "La Salle Dumpling Room",
+    "area": "Upper West Side",
+    "borough": "Manhattan",
+    "address": "35 West End Ave, New York, NY 10023",
+    "lat": 40.773055886712,
+    "lng": -73.989484826319,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Dumplings",
+    "blurb": "Dumplings on West End Avenue."
+  },
+  {
+    "id": "cha-dimsum-chinese-cuisine-upper-east-side",
+    "name": "Cha Dimsum & Chinese Cuisine",
+    "area": "Upper East Side",
+    "borough": "Manhattan",
+    "address": "1134 1st Ave, New York, NY 10065",
+    "lat": 40.761626918589,
+    "lng": -73.960419529211,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Dim sum",
+    "blurb": "Dim sum on First Avenue."
+  },
+  {
+    "id": "nan-xiang-xiao-long-bao-flushing",
+    "name": "Nan Xiang Xiao Long Bao",
+    "area": "Flushing",
+    "borough": "Queens",
+    "address": "39-16 Prince St, Flushing, NY 11354",
+    "lat": 40.759499761082,
+    "lng": -73.832324650263,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "The original Nan Xiang, on Prince Street in Flushing."
+  },
+  {
+    "id": "lao-ke-le-shanghai-cuisine-flushing",
+    "name": "Lao Ke Le Shanghai Cuisine",
+    "area": "Flushing",
+    "borough": "Queens",
+    "address": "136-20 Roosevelt Ave, Flushing, NY 11354",
+    "lat": 40.759699643746,
+    "lng": -73.829377181178,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Shanghainese",
+    "blurb": "Shanghainese in Flushing."
+  },
+  {
+    "id": "shanghai-zhen-gong-fu-elmhurst",
+    "name": "Shanghai Zhen Gong Fu",
+    "area": "Elmhurst",
+    "borough": "Queens",
+    "address": "86-16 Queens Blvd, Elmhurst, NY 11373",
+    "lat": 40.736278556929,
+    "lng": -73.877457747124,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Shanghainese on Queens Boulevard in Elmhurst."
+  },
+  {
+    "id": "lao-bei-fang-dumpling-house-elmhurst",
+    "name": "Lao Bei Fang Dumpling House",
+    "area": "Elmhurst",
+    "borough": "Queens",
+    "address": "83-05 Broadway, Elmhurst, NY 11373",
+    "lat": 40.741008997685,
+    "lng": -73.879797694899,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Dumplings",
+    "blurb": "Dumplings on Broadway in Elmhurst."
+  },
+  {
+    "id": "dumpling-town-elmhurst",
+    "name": "Dumpling Town",
+    "area": "Elmhurst",
+    "borough": "Queens",
+    "address": "86-55 Broadway, Elmhurst, NY 11373",
+    "lat": 40.737367076104,
+    "lng": -73.877233656396,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Dumplings",
+    "blurb": "Dumplings on Broadway in Elmhurst."
+  },
+  {
+    "id": "din-s-kitchen-sunset-park",
+    "name": "Din's Kitchen",
+    "area": "Sunset Park",
+    "borough": "Brooklyn",
+    "address": "5210 7th Ave, Brooklyn, NY 11220",
+    "lat": 40.641269038587,
+    "lng": -74.007235288649,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Sunset Park, from the soup dumpling list."
+  },
+  {
+    "id": "nan-xiang-express-williamsburg",
+    "name": "Nan Xiang Express",
+    "area": "Williamsburg",
+    "borough": "Brooklyn",
+    "address": "167 Grand St, Brooklyn, NY 11249",
+    "lat": 40.714626089226,
+    "lng": -73.961441323224,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "The Grand Street express shop."
+  },
+  {
+    "id": "kings-co-imperial-williamsburg",
+    "name": "Kings Co Imperial",
+    "area": "Williamsburg",
+    "borough": "Brooklyn",
+    "address": "20 Skillman Ave, Brooklyn, NY 11211",
+    "lat": 40.715290769462,
+    "lng": -73.950743823843,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Chinese",
+    "blurb": "Williamsburg, from the soup dumpling list."
+  },
+  {
+    "id": "m-shanghai-williamsburg",
+    "name": "M Shanghai",
+    "area": "Williamsburg",
+    "borough": "Brooklyn",
+    "address": "549 Metropolitan Ave, Brooklyn, NY 11211",
+    "lat": 40.71412303709,
+    "lng": -73.950319267632,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Soup dumplings",
+    "blurb": "Shanghainese in Williamsburg, now on Metropolitan Avenue."
+  },
+  {
+    "id": "vanessa-s-dumpling-house-williamsburg",
+    "name": "Vanessa's Dumpling House",
+    "area": "Williamsburg",
+    "borough": "Brooklyn",
+    "address": "310 Bedford Ave, Brooklyn, NY 11249",
+    "lat": 40.713809638519,
+    "lng": -73.961821732585,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Dumplings",
+    "blurb": "The Bedford Avenue shop."
   },
   {
     "id": "zafi-s-luncheonette-lower-east-side",
