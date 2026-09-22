@@ -48,6 +48,7 @@ const extras = [
     area: "Bedford-Stuyvesant",
     borough: "Brooklyn",
     address: "387A Nostrand Ave, Brooklyn, NY 11216",
+    list: "4",
     tags: ["mexican", "breakfast"],
     cuisine: "Breakfast burritos",
     dish: "Breakfast burrito",
@@ -92,6 +93,7 @@ const placed = spots.map((spot) => {
     cuisine: spot.cuisine,
     dish: spot.dish || "",
     blurb,
+    ...(spot.list ? { list: spot.list } : {}),
   };
 });
 

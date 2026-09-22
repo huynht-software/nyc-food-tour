@@ -268,7 +268,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Pizza",
     "dish": "Slice",
-    "blurb": "The West Village shop. A destination slice."
+    "blurb": "The West Village shop. A destination slice.",
+    "list": "4"
   },
   {
     "id": "l-industrie-pizzeria-park-slope",
@@ -284,7 +285,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Pizza",
     "dish": "Slice",
-    "blurb": "The original Brooklyn shop on Fifth Avenue."
+    "blurb": "The original Brooklyn shop on Fifth Avenue.",
+    "list": "4"
   },
   {
     "id": "ace-s-pizza-bushwick",
@@ -344,7 +346,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Pizza",
     "dish": "Slice",
-    "blurb": "The Carmine Street shop. Plain or pepperoni, eaten on the sidewalk."
+    "blurb": "The Carmine Street shop. Plain or pepperoni, eaten on the sidewalk.",
+    "list": "4"
   },
   {
     "id": "lucia-pizza-gravesend",
@@ -360,7 +363,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Pizza",
     "dish": "Plain or pepperoni slice",
-    "blurb": "The Brooklyn shop. Plain or pepperoni is the move."
+    "blurb": "The Brooklyn shop. Plain or pepperoni is the move.",
+    "list": "4"
   },
   {
     "id": "lucia-pizza-soho",
@@ -376,7 +380,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Pizza",
     "dish": "Plain or pepperoni slice",
-    "blurb": "Manhattan outpost of the Brooklyn slice shop."
+    "blurb": "Manhattan outpost of the Brooklyn slice shop.",
+    "list": "4"
   },
   {
     "id": "joe-pat-s-castleton-corners",
@@ -455,7 +460,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Pizza",
     "dish": "Slice",
-    "blurb": "Milled-in-house flour, Lower East Side slice counter."
+    "blurb": "Milled-in-house flour, Lower East Side slice counter.",
+    "list": "4"
   },
   {
     "id": "vinnie-s-pizzeria-upper-west-side",
@@ -987,7 +993,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Jewish deli",
     "dish": "Pastrami sandwich",
-    "blurb": "Pastrami, hand-cut. Keep the ticket — they charge you from it on the way out."
+    "blurb": "Pastrami, hand-cut. Keep the ticket — they charge you from it on the way out.",
+    "list": "4"
   },
   {
     "id": "zabar-s-upper-west-side",
@@ -1019,7 +1026,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Bagels",
     "dish": "Everything bagel with scallion cream cheese and lox",
-    "blurb": "The Whitestone shop. Everything bagel, scallion cream cheese, sliced lox."
+    "blurb": "The Whitestone shop. Everything bagel, scallion cream cheese, sliced lox.",
+    "list": "4"
   },
   {
     "id": "frankel-s-delicatessen-greenpoint",
@@ -1141,7 +1149,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Burger",
     "dish": "Tavern burger",
-    "blurb": "Best burger of the trip, a 10/10. Juicy patty, crisp bread, and a pop of onion. Ranked above Rolo's and Peter Luger."
+    "blurb": "Best burger of the trip, a 10/10. Juicy patty, crisp bread, and a pop of onion. Ranked above Rolo's and Peter Luger.",
+    "list": "4"
   },
   {
     "id": "gotham-burger-social-club-lower-east-side",
@@ -1293,7 +1302,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Korean",
     "dish": "Galbi",
-    "blurb": "The pricey Korean barbecue pick, on 36th Street."
+    "blurb": "The pricey Korean barbecue pick, on 36th Street.",
+    "list": "4"
   },
   {
     "id": "jongro-bbq-koreatown",
@@ -1309,7 +1319,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Korean",
     "dish": "Galbi",
-    "blurb": "Second-floor Korean barbecue in Koreatown. The pricier of the two barbecue picks."
+    "blurb": "Second-floor Korean barbecue in Koreatown. The pricier of the two barbecue picks.",
+    "list": "4"
   },
   {
     "id": "sylvia-s-harlem",
@@ -1324,7 +1335,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Soul food",
     "dish": "Fried chicken and ribs",
-    "blurb": "Harlem soul food. The gospel brunch is a different scene from a weeknight dinner."
+    "blurb": "Harlem soul food. The gospel brunch is a different scene from a weeknight dinner.",
+    "list": "4"
   },
   {
     "id": "charles-pan-fried-chicken-harlem",
@@ -1387,7 +1399,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Steakhouse",
     "dish": "Porterhouse and a bar burger",
-    "blurb": "Williamsburg steakhouse, and a 9.5/10 bar burger with a special sauce and a slab of bacon. Close to Red Hook Tavern, not quite it. Cash or a Peter Luger card. Arrive early for the bar."
+    "blurb": "Williamsburg steakhouse, and a 9.5/10 bar burger with a special sauce and a slab of bacon. Close to Red Hook Tavern, not quite it. Cash or a Peter Luger card. Arrive early for the bar.",
+    "list": "4"
   },
   {
     "id": "margon-midtown",
@@ -1464,7 +1477,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Fried chicken",
     "dish": "Fried chicken",
-    "blurb": "A Williamsburg bar where the reason to go is the fried chicken."
+    "blurb": "A Williamsburg bar where the reason to go is the fried chicken.",
+    "list": "4"
   },
   {
     "id": "j-g-melon-upper-east-side",
@@ -1619,7 +1633,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Korean",
     "dish": "Spicy kimchi tofu stew",
-    "blurb": "Tofu made in house. The kimchi soondubu is the bowl from the list, and the queue is long."
+    "blurb": "Tofu made in house. The kimchi soondubu is the bowl from the list, and the queue is long.",
+    "list": "4"
   },
   {
     "id": "brennan-carr-sheepshead-bay",
@@ -1634,7 +1649,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Roast beef",
     "dish": "Double-dip roast beef",
-    "blurb": "Roast beef dipped twice in gravy. A south-Brooklyn drive or a long subway ride."
+    "blurb": "Roast beef dipped twice in gravy. A south-Brooklyn drive or a long subway ride.",
+    "list": "4"
   },
   {
     "id": "gino-s-of-bay-ridge-bay-ridge",
@@ -1978,7 +1994,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Deli",
     "dish": "Chopped cheese",
-    "blurb": "The East Harlem chopped cheese counter, also called Blue Sky Deli or Hajji's."
+    "blurb": "The East Harlem chopped cheese counter, also called Blue Sky Deli or Hajji's.",
+    "list": "4"
   },
   {
     "id": "xi-an-famous-foods-chinatown",
@@ -1994,7 +2011,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Chinese",
     "dish": "Hand-pulled noodles",
-    "blurb": "Xi'an noodles. This pin is the Chinatown shop on Bayard Street. There are other locations around the city."
+    "blurb": "Xi'an noodles. This pin is the Chinatown shop on Bayard Street. There are other locations around the city.",
+    "list": "4"
   },
   {
     "id": "cosme-flatiron",
@@ -2009,7 +2027,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Mexican",
     "dish": "Mexican",
-    "blurb": "One of the Mexican picks, with Atla, Aldama, and Taco Mix."
+    "blurb": "One of the Mexican picks, with Atla, Aldama, and Taco Mix.",
+    "list": "4"
   },
   {
     "id": "atla-noho",
@@ -2024,7 +2043,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Mexican",
     "dish": "Mexican",
-    "blurb": "Casual Mexican on Lafayette Street, listed with Cosme, Aldama, and Taco Mix."
+    "blurb": "Casual Mexican on Lafayette Street, listed with Cosme, Aldama, and Taco Mix.",
+    "list": "4"
   },
   {
     "id": "aldama-williamsburg",
@@ -2039,7 +2059,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Mexican",
     "dish": "Mexican",
-    "blurb": "Williamsburg Mexican, listed with Cosme, Atla, and Taco Mix."
+    "blurb": "Williamsburg Mexican, listed with Cosme, Atla, and Taco Mix.",
+    "list": "4"
   },
   {
     "id": "taco-mix-east-harlem",
@@ -2054,7 +2075,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Mexican",
     "dish": "Tacos",
-    "blurb": "The East Harlem Taco Mix, listed with Cosme, Atla, and Aldama. There is more than one shop with this name."
+    "blurb": "The East Harlem Taco Mix, listed with Cosme, Atla, and Aldama. There is more than one shop with this name.",
+    "list": "4"
   },
   {
     "id": "rolo-s-ridgewood",
@@ -2069,7 +2091,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Burger",
     "dish": "Double with onions",
-    "blurb": "Ranked second, behind Red Hook Tavern and ahead of Peter Luger. Burnt edges, cooked onions, crispy patties. 9.5/10."
+    "blurb": "Ranked second, behind Red Hook Tavern and ahead of Peter Luger. Burnt edges, cooked onions, crispy patties. 9.5/10.",
+    "list": "4"
   },
   {
     "id": "lovely-s-old-fashioned-hell-s-kitchen",
@@ -2622,7 +2645,8 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Breakfast burritos",
     "dish": "Breakfast burrito",
-    "blurb": "Brooklyn breakfast burritos, on Nostrand Avenue."
+    "blurb": "Brooklyn breakfast burritos, on Nostrand Avenue.",
+    "list": "4"
   },
   {
     "id": "ella-spice",

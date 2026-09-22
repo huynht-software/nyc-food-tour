@@ -160,8 +160,19 @@ function orderedSpots() {
   });
 }
 
+const STAR = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.1 14.3 8.5 20.1 9 15.6 12.8 17 18.5 12 15.6 7 18.5 8.4 12.8 3.9 9 9.7 8.5Z" fill="currentColor" stroke="#fff" stroke-width="1.4" stroke-linejoin="round"/></svg>`;
+
 function pinIcon(spot) {
   const selected = spot.id === state.selectedId;
+  if (spot.list === "4") {
+    const size = selected ? 34 : 26;
+    return L.divIcon({
+      className: "pin-wrap",
+      html: `<span class="pin-star${selected ? " is-selected" : ""}" style="color:${colorFor(spot)}">${STAR}</span>`,
+      iconSize: [size, size],
+      iconAnchor: [size / 2, size / 2],
+    });
+  }
   return L.divIcon({
     className: "pin-wrap",
     html: `<span class="pin${selected ? " is-selected" : ""}" style="background:${colorFor(spot)}"></span>`,
@@ -214,8 +225,11 @@ function cardHtml(spot) {
   const miles = sortingByDistance() ? formatDistance(distance(spot)) : "";
   const place = [spot.cuisine, spot.area || spot.borough].filter(Boolean).join(" · ");
   const dish = spot.dish ? ` · ${spot.dish}` : "";
+  const mark = spot.list === "4"
+    ? `<span class="star" style="color:${colorFor(spot)}">${STAR}</span>`
+    : `<span class="dot" style="background:${colorFor(spot)}"></span>`;
   return `<button class="card${state.eaten.has(spot.id) ? " is-eaten" : ""}${spot.id === state.selectedId ? " is-selected" : ""}" type="button" data-id="${spot.id}">
-    <span class="dot" style="background:${colorFor(spot)}"></span>
+    ${mark}
     <span class="name">${escapeHtml(spot.name)}</span>
     <span class="miles">${miles}</span>
     <span class="meta">${escapeHtml(place + dish)}</span>
@@ -229,7 +243,7 @@ function detailHtml(spot) {
   const eaten = state.eaten.has(spot.id);
   return `<article class="detail">
     <button class="back" type="button" data-back>Back to the list</button>
-    <p class="kicker">${escapeHtml(spot.cuisine)}</p>
+    <p class="kicker">${escapeHtml(spot.cuisine)}${spot.list === "4" ? " · Short list" : ""}</p>
     <h2>${escapeHtml(spot.name)}</h2>
     <p class="where">${escapeHtml(where)}</p>
     ${spot.dish ? `<p class="dish">${escapeHtml(spot.dish)}</p>` : ""}

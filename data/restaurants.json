@@ -302,7 +302,8 @@
       "lat": 40.733231,
       "lng": -74.004928,
       "matched": "104 CHRISTOPHER ST, NEW YORK, NY, 10014",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "l-industrie-pizzeria-park-slope-20",
@@ -320,7 +321,8 @@
       "lat": 40.675018,
       "lng": -73.981523,
       "matched": "254 5TH AVE, BROOKLYN, NY, 11215",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "ace-s-pizza-bushwick-21",
@@ -388,7 +390,8 @@
       "lat": 40.730518,
       "lng": -74.00206,
       "matched": "7 CARMINE ST, NEW YORK, NY, 10014",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "lucia-pizza-gravesend-25",
@@ -406,7 +409,8 @@
       "lat": 40.593036,
       "lng": -73.948124,
       "matched": "2201 AVE X, BROOKLYN, NY, 11235",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "lucia-pizza-soho-26",
@@ -424,7 +428,8 @@
       "lat": 40.721287,
       "lng": -74.00443,
       "matched": "375 CANAL ST, NEW YORK, NY, 10013",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "joe-pat-s-castleton-corners-27",
@@ -513,7 +518,8 @@
       "lat": 40.715842,
       "lng": -73.991481,
       "matched": "35 ORCHARD ST, NEW YORK, NY, 10002",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "vinnie-s-pizzeria-upper-west-side-35",
@@ -1103,7 +1109,8 @@
       "lat": 40.72244,
       "lng": -73.987234,
       "matched": "205 E HOUSTON ST, NEW YORK, NY, 10002",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "zabar-s-upper-west-side-75",
@@ -1139,7 +1146,8 @@
       "lat": 40.78034,
       "lng": -73.793922,
       "matched": "19-09 UTOPIA PKWY, WHITESTONE, NY, 11357",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "frankel-s-delicatessen-77",
@@ -1275,7 +1283,8 @@
       "lat": 40.678,
       "lng": -74.012036,
       "matched": "329 VAN BRUNT ST, BROOKLYN, NY, 11231",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "gotham-burger-social-club-lower-east-side-87",
@@ -1445,7 +1454,8 @@
       "lat": 40.749909,
       "lng": -73.984463,
       "matched": "Yoon Haeundae Galbi, 8, West 36th Street, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10018, United States",
-      "via": "nominatim"
+      "via": "nominatim",
+      "list": "4"
     },
     {
       "id": "jongro-bbq-koreatown-101",
@@ -1463,7 +1473,8 @@
       "lat": 40.747364,
       "lng": -73.986154,
       "matched": "22 W 32ND ST, NEW YORK, NY, 10001",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "sylvia-s-harlem-102",
@@ -1480,7 +1491,8 @@
       "lat": 40.808731,
       "lng": -73.9447,
       "matched": "328 MALCOLM X BLVD, NEW YORK, NY, 10027",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "charles-pan-fried-chicken-103",
@@ -1550,7 +1562,8 @@
       "lat": 40.710129,
       "lng": -73.963099,
       "matched": "178 BROADWAY, BROOKLYN, NY, 11211",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "margon-midtown-107",
@@ -1636,7 +1649,8 @@
       "lat": 40.71403,
       "lng": -73.955804,
       "matched": "366 METROPOLITAN AVE, BROOKLYN, NY, 11211",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "j-g-melon-upper-east-side-115",
@@ -1810,7 +1824,8 @@
       "lat": 40.749891,
       "lng": -73.985808,
       "matched": "55 W 35TH ST, NEW YORK, NY, 10001",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "brennan-carr-sheepshead-bay-126",
@@ -1827,7 +1842,8 @@
       "lat": 40.600245,
       "lng": -73.94193,
       "matched": "3432 NOSTRAND AVE, BROOKLYN, NY, 11229",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "id": "gino-s-of-bay-ridge-bay-ridge-127",
@@ -2214,7 +2230,8 @@
       "lat": 40.792045,
       "lng": -73.938381,
       "matched": "2135 1ST AVE, NEW YORK, NY, 10029",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "name": "Xi'an Famous Foods",
@@ -2231,7 +2248,8 @@
       "lat": 40.715227318331,
       "lng": -73.997538367674,
       "matched": "45 BAYARD ST, NEW YORK, NY, 10013",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "name": "Cosme",
@@ -2247,7 +2265,8 @@
       "lat": 40.739034075828,
       "lng": -73.987450725089,
       "matched": "35 E 21ST ST, NEW YORK, NY, 10010",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "name": "Atla",
@@ -2263,7 +2282,8 @@
       "lat": 40.72726555033,
       "lng": -73.993741255196,
       "matched": "372 LAFAYETTE ST, NEW YORK, NY, 10012",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "name": "Aldama",
@@ -2279,7 +2299,8 @@
       "lat": 40.710993028082,
       "lng": -73.965150859835,
       "matched": "91 S 6TH ST, BROOKLYN, NY, 11249",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "name": "Taco Mix",
@@ -2295,7 +2316,8 @@
       "lat": 40.797318923129,
       "lng": -73.938692202453,
       "matched": "234 E 116TH ST, NEW YORK, NY, 10029",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "name": "Rolo's",
@@ -2311,7 +2333,8 @@
       "lat": 40.701952538304,
       "lng": -73.903663521481,
       "matched": "853 ONDERDONK AVE, RIDGEWOOD, NY, 11385",
-      "via": "census"
+      "via": "census",
+      "list": "4"
     },
     {
       "name": "Lovely's Old Fashioned",
