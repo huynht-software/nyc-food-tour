@@ -1,0 +1,2362 @@
+{
+  "results": [
+    {
+      "id": "little-myanmar-east-village-1",
+      "name": "Little Myanmar",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "150 E 2nd St, New York, NY 10009",
+      "tags": [
+        "asian",
+        "burmese"
+      ],
+      "cuisine": "Burmese",
+      "dish": "Coconut chicken noodle soup",
+      "blurb": "Little Myanmar, big flavor. The coconut chicken noodle soup is the one from the photo roundup.",
+      "lat": 40.722557,
+      "lng": -73.98454,
+      "matched": "150 E 2ND ST, NEW YORK, NY, 10009",
+      "via": "census"
+    },
+    {
+      "id": "little-myanmar-jackson-heights-2",
+      "name": "Little Myanmar",
+      "area": "Jackson Heights",
+      "borough": "Queens",
+      "address": "71-15 37th Ave, Jackson Heights, NY 11372",
+      "tags": [
+        "asian",
+        "burmese"
+      ],
+      "cuisine": "Burmese",
+      "dish": "Coconut chicken noodle soup",
+      "blurb": "The Jackson Heights location of this family-run Burmese restaurant.",
+      "lat": 40.748799,
+      "lng": -73.89391,
+      "matched": "71-15 37TH AVE, JACKSON HEIGHTS, NY, 11372",
+      "via": "census"
+    },
+    {
+      "id": "ravagh-persian-grill-koreatown-3",
+      "name": "Ravagh Persian Grill",
+      "area": "Koreatown",
+      "borough": "Manhattan",
+      "address": "11 E 30th St, New York, NY 10016",
+      "tags": [
+        "middle-eastern",
+        "persian"
+      ],
+      "cuisine": "Persian",
+      "dish": "Pomegranate fesenjan and cherry rice",
+      "blurb": "Fesenjan and cherry rice. A sit-down Persian grill.",
+      "lat": 40.745629,
+      "lng": -73.985557,
+      "matched": "11 E 30TH ST, NEW YORK, NY, 10016",
+      "via": "census"
+    },
+    {
+      "id": "el-budare-cafe-jackson-heights-4",
+      "name": "El Budare Cafe",
+      "area": "Jackson Heights",
+      "borough": "Queens",
+      "address": "87-21 Roosevelt Ave, Jackson Heights, NY 11372",
+      "tags": [
+        "latin",
+        "venezuelan"
+      ],
+      "cuisine": "Venezuelan",
+      "dish": "Reina pepiada arepa and cachapas",
+      "blurb": "Arepas, including the reina pepiada, plus cachapas. On Roosevelt Avenue.",
+      "lat": 40.748201,
+      "lng": -73.879067,
+      "matched": "87-21 ROOSEVELT AVE, JACKSON HEIGHTS, NY, 11372",
+      "via": "census"
+    },
+    {
+      "id": "saranrom-thai-elmhurst-5",
+      "name": "Saranrom Thai",
+      "area": "Elmhurst",
+      "borough": "Queens",
+      "address": "81-10 Broadway, Elmhurst, NY 11373",
+      "tags": [
+        "asian",
+        "thai"
+      ],
+      "cuisine": "Thai",
+      "dish": "Red curry and Thai iced tea",
+      "blurb": "Red curry and Thai iced tea. The post calls out the servers as much as the food.",
+      "lat": 40.743272,
+      "lng": -73.883758,
+      "matched": "81-10 BROADWAY, ELMHURST, NY, 11373",
+      "via": "census"
+    },
+    {
+      "id": "mei-lai-wah-chinatown-6",
+      "name": "Mei Lai Wah",
+      "area": "Chinatown",
+      "borough": "Manhattan",
+      "address": "64 Bayard St, New York, NY 10013",
+      "tags": [
+        "asian",
+        "chinese",
+        "bakery"
+      ],
+      "cuisine": "Chinese bakery",
+      "dish": "Pineapple pork bun",
+      "blurb": "The pineapple bun, ideally the pork one, from the Chinatown bakery counter.",
+      "lat": 40.715513,
+      "lng": -73.997985,
+      "matched": "64 BAYARD ST, NEW YORK, NY, 10013",
+      "via": "census"
+    },
+    {
+      "id": "pupusas-ridgewood-ridgewood-7",
+      "name": "Pupusas Ridgewood",
+      "area": "Ridgewood",
+      "borough": "Queens",
+      "address": "71-20 Fresh Pond Rd, Ridgewood, NY 11385",
+      "tags": [
+        "latin",
+        "salvadoran"
+      ],
+      "cuisine": "Salvadoran",
+      "dish": "Pupusas",
+      "blurb": "Called out as one of the best pupusas the poster ever had.",
+      "lat": 40.701618,
+      "lng": -73.894895,
+      "matched": "71-20 FRESH POND RD, RIDGEWOOD, NY, 11385",
+      "via": "census"
+    },
+    {
+      "id": "burmese-bites-elmhurst-8",
+      "name": "Burmese Bites",
+      "area": "Elmhurst",
+      "borough": "Queens",
+      "address": "90-15 Queens Blvd, Elmhurst, NY 11373",
+      "tags": [
+        "asian",
+        "burmese"
+      ],
+      "cuisine": "Burmese",
+      "dish": "Keema palata",
+      "blurb": "Keema palata. Inside Queens Center mall.",
+      "lat": 40.734193,
+      "lng": -73.871738,
+      "matched": "90-15 QUEENS BLVD, ELMHURST, NY, 11373",
+      "via": "census"
+    },
+    {
+      "id": "amar-peruvian-kitchen-forest-hills-10",
+      "name": "Amar Peruvian Kitchen",
+      "area": "Forest Hills",
+      "borough": "Queens",
+      "address": "68-60 Austin St, Forest Hills, NY 11375",
+      "tags": [
+        "latin",
+        "peruvian"
+      ],
+      "cuisine": "Peruvian",
+      "dish": "Aji de gallina",
+      "blurb": "Aji de gallina in Forest Hills.",
+      "lat": 40.721786,
+      "lng": -73.849395,
+      "matched": "68-60 AUSTIN ST, FOREST HILLS, NY, 11375",
+      "via": "census"
+    },
+    {
+      "id": "tuscan-hills-11",
+      "name": "Tuscan Hills",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "italian"
+      ],
+      "cuisine": "Italian",
+      "dish": "Pollo parmigiana",
+      "blurb": "Pollo parmigiana. The post also praises the cocktails and service.",
+      "lat": 40.719019,
+      "lng": -73.839283,
+      "matched": "Tuscan Hills, 110-60, Queens Boulevard, Forest Hills, Queens, Queens County, New York, 11375, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "the-weekender-woodside-12",
+      "name": "The Weekender",
+      "area": "Woodside",
+      "borough": "Queens",
+      "address": "41-46 54th St, Woodside, NY 11377",
+      "tags": [
+        "asian",
+        "bhutanese"
+      ],
+      "cuisine": "Bhutanese",
+      "dish": "Kewa datshi",
+      "blurb": "Bhutanese cooking inside a snooker hall. Kewa datshi is the dish to order.",
+      "lat": 40.744241,
+      "lng": -73.910726,
+      "matched": "41-46 54TH ST, WOODSIDE, NY, 11377",
+      "via": "census"
+    },
+    {
+      "id": "lhasa-snack-cafe-woodside-13",
+      "name": "Lhasa Snack Cafe",
+      "area": "Woodside",
+      "borough": "Queens",
+      "address": "69-11 Roosevelt Ave, Woodside, NY 11377",
+      "tags": [
+        "asian",
+        "tibetan"
+      ],
+      "cuisine": "Tibetan",
+      "dish": "Jhol momo",
+      "blurb": "Jhol momo, the soup dumplings, on Roosevelt Avenue.",
+      "lat": 40.746404,
+      "lng": -73.896185,
+      "matched": "69-11 ROOSEVELT AVE, WOODSIDE, NY, 11377",
+      "via": "census"
+    },
+    {
+      "id": "casa-adela-east-village-15",
+      "name": "Casa Adela",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "66 Avenue C, New York, NY 10009",
+      "tags": [
+        "latin",
+        "puerto-rican"
+      ],
+      "cuisine": "Puerto Rican",
+      "dish": "Mofongo",
+      "blurb": "A Loisaida institution. Come for the mofongo.",
+      "lat": 40.722736,
+      "lng": -73.979748,
+      "matched": "66 AVE C, NEW YORK, NY, 10009",
+      "via": "census"
+    },
+    {
+      "id": "la-gran-uruguaya-jackson-heights-16",
+      "name": "La Gran Uruguaya",
+      "area": "Jackson Heights",
+      "borough": "Queens",
+      "address": "85-06 37th Ave, Jackson Heights, NY 11372",
+      "tags": [
+        "latin",
+        "uruguayan",
+        "bakery"
+      ],
+      "cuisine": "Uruguayan bakery",
+      "dish": "Dulce de leche medialuna",
+      "blurb": "Bakery case stop. The dulce de leche medialuna is the one from the post.",
+      "lat": 40.749995,
+      "lng": -73.881388,
+      "matched": "85-06 37TH AVE, JACKSON HEIGHTS, NY, 11372",
+      "via": "census"
+    },
+    {
+      "id": "queens-night-market-corona-17",
+      "name": "Queens Night Market",
+      "area": "Corona",
+      "borough": "Queens",
+      "address": "47-01 111th St, Corona, NY 11368",
+      "tags": [
+        "market"
+      ],
+      "cuisine": "Night market",
+      "dish": "Ube flan, Kazakh samsa",
+      "blurb": "Seasonal weekend market by the Hall of Science. The post remembers a Filipino ube flan and samsa from Tastes of the Silk Road. Stands change, and it is not open year-round.",
+      "lat": 40.746802,
+      "lng": -73.853163,
+      "matched": "47-01 111TH ST, CORONA, NY, 11368",
+      "via": "census"
+    },
+    {
+      "id": "birria-landia-jackson-heights-18",
+      "name": "Birria-Landia",
+      "area": "Jackson Heights",
+      "borough": "Queens",
+      "address": "77-05 Roosevelt Ave, Jackson Heights, NY 11372",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Birria tacos and mulita",
+      "blurb": "The Jackson Heights truck, not the Manhattan one. The post calls it the best birria they have had, and says to get the mulita.",
+      "lat": 40.7472,
+      "lng": -73.888586,
+      "matched": "77-05 ROOSEVELT AVE, JACKSON HEIGHTS, NY, 11372",
+      "via": "census"
+    },
+    {
+      "id": "l-industrie-pizzeria-west-village-19",
+      "name": "L'industrie Pizzeria",
+      "area": "West Village",
+      "borough": "Manhattan",
+      "address": "104 Christopher St, New York, NY 10014",
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "The West Village shop. A destination slice.",
+      "lat": 40.733231,
+      "lng": -74.004928,
+      "matched": "104 CHRISTOPHER ST, NEW YORK, NY, 10014",
+      "via": "census"
+    },
+    {
+      "id": "l-industrie-pizzeria-park-slope-20",
+      "name": "L'industrie Pizzeria",
+      "area": "Park Slope",
+      "borough": "Brooklyn",
+      "address": "254 5th Ave, Brooklyn, NY 11215",
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "The original Brooklyn shop on Fifth Avenue.",
+      "lat": 40.675018,
+      "lng": -73.981523,
+      "matched": "254 5TH AVE, BROOKLYN, NY, 11215",
+      "via": "census"
+    },
+    {
+      "id": "ace-s-pizza-bushwick-21",
+      "name": "Ace's Pizza",
+      "area": "Bushwick",
+      "borough": "Brooklyn",
+      "address": "423 Troutman St, Brooklyn, NY 11237",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "The Bushwick location called out on the list.",
+      "lat": 40.707488,
+      "lng": -73.922025,
+      "matched": "423 TROUTMAN ST, BROOKLYN, NY, 11237",
+      "via": "census"
+    },
+    {
+      "id": "mama-s-too-upper-west-side-22",
+      "name": "Mama's TOO",
+      "area": "Upper West Side",
+      "borough": "Manhattan",
+      "address": "2750 Broadway, New York, NY 10025",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "Upper West Side slice shop.",
+      "lat": 40.800969,
+      "lng": -73.967851,
+      "matched": "2750 BROADWAY, NEW YORK, NY, 10025",
+      "via": "census"
+    },
+    {
+      "id": "bleecker-street-pizza-west-village-23",
+      "name": "Bleecker Street Pizza",
+      "area": "West Village",
+      "borough": "Manhattan",
+      "address": "69 7th Ave S, New York, NY 10014",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "A Village slice, a short walk from the other famous corners.",
+      "lat": 40.731768,
+      "lng": -74.003777,
+      "matched": "69 7TH AVE S, NEW YORK, NY, 10014",
+      "via": "census"
+    },
+    {
+      "id": "joe-s-pizza-greenwich-village-24",
+      "name": "Joe's Pizza",
+      "area": "Greenwich Village",
+      "borough": "Manhattan",
+      "address": "7 Carmine St, New York, NY 10014",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "The Carmine Street shop. Plain or pepperoni, eaten on the sidewalk.",
+      "lat": 40.730518,
+      "lng": -74.00206,
+      "matched": "7 CARMINE ST, NEW YORK, NY, 10014",
+      "via": "census"
+    },
+    {
+      "id": "lucia-pizza-gravesend-25",
+      "name": "Lucia Pizza",
+      "area": "Gravesend",
+      "borough": "Brooklyn",
+      "address": "2201 Avenue X, Brooklyn, NY 11235",
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Plain or pepperoni slice",
+      "blurb": "The Brooklyn shop. Plain or pepperoni is the move.",
+      "lat": 40.593036,
+      "lng": -73.948124,
+      "matched": "2201 AVE X, BROOKLYN, NY, 11235",
+      "via": "census"
+    },
+    {
+      "id": "lucia-pizza-soho-26",
+      "name": "Lucia Pizza",
+      "area": "SoHo",
+      "borough": "Manhattan",
+      "address": "375 Canal St, New York, NY 10013",
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Plain or pepperoni slice",
+      "blurb": "Manhattan outpost of the Brooklyn slice shop.",
+      "lat": 40.721287,
+      "lng": -74.00443,
+      "matched": "375 CANAL ST, NEW YORK, NY, 10013",
+      "via": "census"
+    },
+    {
+      "id": "joe-pat-s-castleton-corners-27",
+      "name": "Joe & Pat's",
+      "area": "Castleton Corners",
+      "borough": "Staten Island",
+      "address": "1758 Victory Blvd, Staten Island, NY 10314",
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Vodka pie",
+      "blurb": "The Staten Island original. Worth the ferry if you are doing a pizza day.",
+      "lat": 40.613039,
+      "lng": -74.122308,
+      "matched": "1758 VICTORY BLVD, STATEN ISLAND, NY, 10314",
+      "via": "census"
+    },
+    {
+      "id": "paulie-gee-s-greenpoint-29",
+      "name": "Paulie Gee's",
+      "area": "Greenpoint",
+      "borough": "Brooklyn",
+      "address": "60 Greenpoint Ave, Brooklyn, NY 11222",
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Wood-fired pie",
+      "blurb": "Wood-fired pies in Greenpoint. More of a sit-down pie than a foldable slice.",
+      "lat": 40.729735,
+      "lng": -73.958517,
+      "matched": "60 GREENPOINT AVE, BROOKLYN, NY, 11222",
+      "via": "census"
+    },
+    {
+      "id": "rosario-s-astoria-30",
+      "name": "Rosario's",
+      "area": "Astoria",
+      "borough": "Queens",
+      "address": "22-55 31st St, Astoria, NY 11105",
+      "tags": [
+        "pizza",
+        "italian",
+        "deli"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "An Astoria Italian deli with a serious slice in the back.",
+      "lat": 40.775086,
+      "lng": -73.911868,
+      "matched": "22-55 31ST ST, ASTORIA, NY, 11105",
+      "via": "census"
+    },
+    {
+      "id": "best-pizza-williamsburg-32",
+      "name": "Best Pizza",
+      "area": "Williamsburg",
+      "borough": "Brooklyn",
+      "address": "33 Havemeyer St, Brooklyn, NY 11211",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "Williamsburg slice shop. The square and the round are both in play.",
+      "lat": 40.715551,
+      "lng": -73.953642,
+      "matched": "33 HAVEMEYER ST, BROOKLYN, NY, 11211",
+      "via": "census"
+    },
+    {
+      "id": "scarr-s-pizza-lower-east-side-33",
+      "name": "Scarr's Pizza",
+      "area": "Lower East Side",
+      "borough": "Manhattan",
+      "address": "35 Orchard St, New York, NY 10002",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "Milled-in-house flour, Lower East Side slice counter.",
+      "lat": 40.715842,
+      "lng": -73.991481,
+      "matched": "35 ORCHARD ST, NEW YORK, NY, 10002",
+      "via": "census"
+    },
+    {
+      "id": "vinnie-s-pizzeria-upper-west-side-35",
+      "name": "Vinnie's Pizzeria",
+      "area": "Upper West Side",
+      "borough": "Manhattan",
+      "address": "285 Amsterdam Ave, New York, NY 10023",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "Upper West Side slice.",
+      "lat": 40.779473,
+      "lng": -73.980917,
+      "matched": "285 AMSTERDAM AVE, NEW YORK, NY, 10023",
+      "via": "census"
+    },
+    {
+      "id": "cello-s-pizzeria-east-village-36",
+      "name": "Cello's Pizzeria",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "36 St Marks Pl, New York, NY 10003",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "St. Marks Place slice.",
+      "lat": 40.72857,
+      "lng": -73.987774,
+      "matched": "36 SAINT MARKS PL, NEW YORK, NY, 10003",
+      "via": "census"
+    },
+    {
+      "id": "casa-della-mozzarella-belmont-37",
+      "name": "Casa Della Mozzarella",
+      "area": "Belmont",
+      "borough": "Bronx",
+      "address": "2219 Arthur Ave, Bronx, NY 10457",
+      "tags": [
+        "italian",
+        "sandwich",
+        "deli"
+      ],
+      "cuisine": "Italian deli",
+      "dish": "The Casa sandwich",
+      "blurb": "Arthur Avenue shop. The Casa is the sandwich from the classics list.",
+      "lat": 40.852767,
+      "lng": -73.889932,
+      "matched": "2219 ARTHUR AVE, BRONX, NY, 10457",
+      "via": "census"
+    },
+    {
+      "id": "carmine-s-times-square-38",
+      "name": "Carmine's",
+      "area": "Times Square",
+      "borough": "Manhattan",
+      "address": "200 W 44th St, New York, NY 10036",
+      "tags": [
+        "italian"
+      ],
+      "cuisine": "Italian",
+      "dish": "Family-style red sauce",
+      "blurb": "Family-style Italian in Times Square. Portions are built for a group.",
+      "lat": 40.757316,
+      "lng": -73.986118,
+      "matched": "200 W 44TH ST, NEW YORK, NY, 10036",
+      "via": "census"
+    },
+    {
+      "id": "faicco-s-italian-specialties-west-village-39",
+      "name": "Faicco's Italian Specialties",
+      "area": "West Village",
+      "borough": "Manhattan",
+      "address": "260 Bleecker St, New York, NY 10014",
+      "tags": [
+        "italian",
+        "sandwich",
+        "deli"
+      ],
+      "cuisine": "Italian deli",
+      "dish": "Italian sandwiches",
+      "blurb": "Bleecker Street Italian shop. Sandwiches and imported groceries.",
+      "lat": 40.731044,
+      "lng": -74.002973,
+      "matched": "260 BLEECKER ST, NEW YORK, NY, 10014",
+      "via": "census"
+    },
+    {
+      "id": "veniero-s-east-village-40",
+      "name": "Veniero's",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "342 E 11th St, New York, NY 10003",
+      "tags": [
+        "italian",
+        "bakery"
+      ],
+      "cuisine": "Italian bakery",
+      "dish": "Pastries",
+      "blurb": "A century-old pasticceria. Go for something from the case.",
+      "lat": 40.729901,
+      "lng": -73.985388,
+      "matched": "342 E 11TH ST, NEW YORK, NY, 10003",
+      "via": "census"
+    },
+    {
+      "id": "john-s-of-12th-street-east-village-41",
+      "name": "John's of 12th Street",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "302 E 12th St, New York, NY 10003",
+      "tags": [
+        "italian"
+      ],
+      "cuisine": "Italian",
+      "dish": "Red-sauce classics",
+      "blurb": "Old-school East Village red sauce, not a pizza counter.",
+      "lat": 40.730925,
+      "lng": -73.985832,
+      "matched": "302 E 12TH ST, NEW YORK, NY, 10003",
+      "via": "census"
+    },
+    {
+      "id": "emilio-s-ballato-soho-43",
+      "name": "Emilio's Ballato",
+      "area": "SoHo",
+      "borough": "Manhattan",
+      "address": "55 E Houston St, New York, NY 10012",
+      "tags": [
+        "italian"
+      ],
+      "cuisine": "Italian",
+      "dish": "Red-sauce classics",
+      "blurb": "Houston Street Italian. A reservations kind of room, not a slice.",
+      "lat": 40.724697,
+      "lng": -73.994367,
+      "matched": "55 E HOUSTON ST, NEW YORK, NY, 10012",
+      "via": "census"
+    },
+    {
+      "id": "don-angie-west-village-44",
+      "name": "Don Angie",
+      "area": "West Village",
+      "borough": "Manhattan",
+      "address": "103 Greenwich Ave, New York, NY 10014",
+      "tags": [
+        "italian"
+      ],
+      "cuisine": "Italian",
+      "dish": "Chrysanthemum salad, pinwheel lasagna",
+      "blurb": "West Village Italian. Book ahead if you want a table.",
+      "lat": 40.737761,
+      "lng": -74.001903,
+      "matched": "103 GREENWICH AVE, NEW YORK, NY, 10014",
+      "via": "census"
+    },
+    {
+      "id": "all-antico-vinaio-45",
+      "name": "All'Antico Vinaio",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "italian",
+        "sandwich"
+      ],
+      "cuisine": "Italian sandwich",
+      "dish": "Schiacciata sandwich",
+      "blurb": "Florentine sandwich counter. There is often a line.",
+      "lat": 40.763681,
+      "lng": -73.970044,
+      "matched": "All'Antico Vinaio, 36, East 60th Street, Manhattan Community Board 8, Manhattan, New York County, New York, 10022, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "antojitos-charly-jackson-heights-46",
+      "name": "Antojitos Charly",
+      "area": "Jackson Heights",
+      "borough": "Queens",
+      "address": "74-20 Roosevelt Ave, Jackson Heights, NY 11372",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Al pastor tacos",
+      "blurb": "Roosevelt Avenue taco stop in Jackson Heights.",
+      "lat": 40.746812,
+      "lng": -73.891186,
+      "matched": "74-20 ROOSEVELT AVE, JACKSON HEIGHTS, NY, 11372",
+      "via": "census"
+    },
+    {
+      "id": "los-tacos-no-1-chelsea-47",
+      "name": "Los Tacos No. 1",
+      "area": "Chelsea",
+      "borough": "Manhattan",
+      "address": "75 9th Ave, New York, NY 10011",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Adobada taco",
+      "blurb": "Inside Chelsea Market. Order at the counter.",
+      "lat": 40.741898,
+      "lng": -74.004768,
+      "matched": "75 9TH AVE, NEW YORK, NY, 10011",
+      "via": "census"
+    },
+    {
+      "id": "los-tacos-no-1-times-square-48",
+      "name": "Los Tacos No. 1",
+      "area": "Times Square",
+      "borough": "Manhattan",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Adobada taco",
+      "blurb": "The Times Square counter, useful if you are already in Midtown.",
+      "lat": 40.757422,
+      "lng": -73.987814,
+      "matched": "Los Tacos No.1, 229, West 43rd Street, Times Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "carnitas-ramirez-49",
+      "name": "Carnitas Ramirez",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Carnitas",
+      "blurb": "Carnitas specialist from the taco list.",
+      "lat": 40.722478,
+      "lng": -73.982765,
+      "matched": "Carnitas Ramirez, 210, East 3rd Street, Village View Houses, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "nene-s-taqueria-bushwick-50",
+      "name": "Nene's Taqueria",
+      "area": "Bushwick",
+      "borough": "Brooklyn",
+      "address": "14 Starr St, Brooklyn, NY 11237",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Birria",
+      "blurb": "Bushwick birria. Consomé on the side.",
+      "lat": 40.700219,
+      "lng": -73.92784,
+      "matched": "14 STARR ST, BROOKLYN, NY, 11221",
+      "via": "census"
+    },
+    {
+      "id": "tacos-el-bronco-sunset-park-51",
+      "name": "Tacos El Bronco",
+      "area": "Sunset Park",
+      "borough": "Brooklyn",
+      "address": "4323 4th Ave, Brooklyn, NY 11232",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Tacos",
+      "blurb": "Sunset Park taqueria. They also run trucks nearby.",
+      "lat": 40.650205,
+      "lng": -74.008595,
+      "matched": "4323 4TH AVE, BROOKLYN, NY, 11232",
+      "via": "census"
+    },
+    {
+      "id": "tacos-domingo-52",
+      "name": "Tacos Domingo",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Tacos",
+      "blurb": "From the Mexican list.",
+      "lat": 40.727581,
+      "lng": -73.985544,
+      "matched": "Tacos Domingo, 131, 1st Avenue, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10003, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "taqueria-ramirez-greenpoint-53",
+      "name": "Taqueria Ramirez",
+      "area": "Greenpoint",
+      "borough": "Brooklyn",
+      "address": "94 Franklin St, Brooklyn, NY 11222",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Suadero and tripa tacos",
+      "blurb": "Mexico City-style tacos in Greenpoint. Expect a sidewalk line.",
+      "lat": 40.727819,
+      "lng": -73.957177,
+      "matched": "94 FRANKLIN ST, BROOKLYN, NY, 11222",
+      "via": "census"
+    },
+    {
+      "id": "los-burritos-juarez-54",
+      "name": "Los Burritos Juarez",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Burritos",
+      "blurb": "Burritos from the Mexican list.",
+      "lat": 40.693105,
+      "lng": -73.972096,
+      "matched": "Los Burritos Juárez, 354, Myrtle Avenue, Fort Greene, Brooklyn, Kings County, New York, 11205, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "santo-taco-soho-56",
+      "name": "Santo Taco",
+      "area": "SoHo",
+      "borough": "Manhattan",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Tacos",
+      "blurb": "The SoHo location.",
+      "lat": 40.721361,
+      "lng": -73.997634,
+      "matched": "Santo Taco, 114, Kenmare Street, Little Italy, Lower Manhattan, Manhattan, New York County, New York, 10012, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "mariscos-el-submarino-jackson-heights-57",
+      "name": "Mariscos El Submarino",
+      "area": "Jackson Heights",
+      "borough": "Queens",
+      "address": "88-05 Roosevelt Ave, Jackson Heights, NY 11372",
+      "tags": [
+        "mexican",
+        "seafood"
+      ],
+      "cuisine": "Mexican seafood",
+      "dish": "Shrimp and octopus tacos",
+      "blurb": "Seafood tacos and cocteles on Roosevelt Avenue.",
+      "lat": 40.74828,
+      "lng": -73.878308,
+      "matched": "88-05 ROOSEVELT AVE, JACKSON HEIGHTS, NY, 11372",
+      "via": "census"
+    },
+    {
+      "id": "chongqing-lao-zao-flushing-60",
+      "name": "Chongqing Lao Zao",
+      "area": "Flushing",
+      "borough": "Queens",
+      "address": "37-04 Prince St, Flushing, NY 11354",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Sichuan",
+      "dish": "Chongqing hot pot",
+      "blurb": "Flushing hot pot. The spice level is the point.",
+      "lat": 40.760651,
+      "lng": -73.832961,
+      "matched": "37-04 PRINCE ST, FLUSHING, NY, 11354",
+      "via": "census"
+    },
+    {
+      "id": "new-kim-tuong-61",
+      "name": "New Kim Tuong",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "",
+      "blurb": "From the Chinese list.",
+      "lat": 40.717438,
+      "lng": -73.994396,
+      "matched": "New Kim Tuong, 83, Chrystie Street, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "tasty-hand-pulled-noodles-chinatown-62",
+      "name": "Tasty Hand-Pulled Noodles",
+      "area": "Chinatown",
+      "borough": "Manhattan",
+      "address": "1 Doyers St, New York, NY 10013",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "Hand-pulled noodles",
+      "blurb": "Noodles pulled to order on Doyers Street.",
+      "lat": 40.714028,
+      "lng": -73.997598,
+      "matched": "1 DOYERS ST, NEW YORK, NY, 10013",
+      "via": "census"
+    },
+    {
+      "id": "supreme-restaurant-64",
+      "name": "Supreme Restaurant",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "",
+      "blurb": "From the Chinese list.",
+      "lat": 40.717297,
+      "lng": -73.997319,
+      "matched": "Supreme Restaurant, 100, Mott Street, Chinatown, Lower Manhattan, Manhattan, New York County, New York, 10012, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "wo-hop-chinatown-65",
+      "name": "Wo Hop",
+      "area": "Chinatown",
+      "borough": "Manhattan",
+      "address": "17 Mott St, New York, NY 10013",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "Late-night Cantonese",
+      "blurb": "Downstairs on Mott Street. Open very late.",
+      "lat": 40.71425,
+      "lng": -73.998832,
+      "matched": "17 MOTT ST, NEW YORK, NY, 10013",
+      "via": "census"
+    },
+    {
+      "id": "jin-mei-dumpling-66",
+      "name": "Jin Mei Dumpling",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "Dumplings",
+      "blurb": "Dumpling shop from the Chinese list.",
+      "lat": 40.71298,
+      "lng": -73.996581,
+      "matched": "Jin Mei Dumpling, 25, Henry Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "double-crispy-bakery-67",
+      "name": "Double Crispy Bakery",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "asian",
+        "chinese",
+        "bakery"
+      ],
+      "cuisine": "Chinese bakery",
+      "dish": "Bakery counter",
+      "blurb": "Chinese bakery from the list.",
+      "lat": 40.718693,
+      "lng": -73.995088,
+      "matched": "Double Crispy Bakery, 230, Grand Street, Chinatown, Lower Manhattan, Manhattan, New York County, New York, 10013, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "shu-jiao-fu-zhou-lower-east-side-69",
+      "name": "Shu Jiao Fu Zhou",
+      "area": "Lower East Side",
+      "borough": "Manhattan",
+      "address": "118 Eldridge St, New York, NY 10002",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Fuzhou",
+      "dish": "Peanut butter noodles and dumplings",
+      "blurb": "Fuzhou dumplings and peanut noodles on Eldridge Street.",
+      "lat": 40.718305,
+      "lng": -73.991809,
+      "matched": "118 ELDRIDGE ST, NEW YORK, NY, 10002",
+      "via": "census"
+    },
+    {
+      "id": "ugly-baby-carroll-gardens-70",
+      "name": "Ugly Baby",
+      "area": "Carroll Gardens",
+      "borough": "Brooklyn",
+      "address": "407 Smith St, Brooklyn, NY 11231",
+      "tags": [
+        "asian",
+        "thai"
+      ],
+      "cuisine": "Thai",
+      "dish": "Southern Thai",
+      "blurb": "Southern Thai in Carroll Gardens. This restaurant closed — confirm before you make the trip.",
+      "lat": 40.678066,
+      "lng": -73.996093,
+      "matched": "407 SMITH ST, BROOKLYN, NY, 11231",
+      "via": "census"
+    },
+    {
+      "id": "thai-diner-nolita-71",
+      "name": "Thai Diner",
+      "area": "Nolita",
+      "borough": "Manhattan",
+      "address": "186 Mott St, New York, NY 10012",
+      "tags": [
+        "asian",
+        "thai",
+        "diner"
+      ],
+      "cuisine": "Thai diner",
+      "dish": "Thai diner plates",
+      "blurb": "A diner menu cooked with Thai flavors. On Mott Street.",
+      "lat": 40.720826,
+      "lng": -73.995701,
+      "matched": "186 MOTT ST, NEW YORK, NY, 10012",
+      "via": "census"
+    },
+    {
+      "id": "soothr-east-village-72",
+      "name": "Soothr",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "204 E 13th St, New York, NY 10003",
+      "tags": [
+        "asian",
+        "thai"
+      ],
+      "cuisine": "Thai",
+      "dish": "Boat noodles",
+      "blurb": "East Village Thai. Boat noodles are the dish people line up for.",
+      "lat": 40.732492,
+      "lng": -73.987569,
+      "matched": "204 E 13TH ST, NEW YORK, NY, 10003",
+      "via": "census"
+    },
+    {
+      "id": "mommy-pai-s-nolita-73",
+      "name": "Mommy Pai's",
+      "area": "Nolita",
+      "borough": "Manhattan",
+      "address": "203 Mott St, New York, NY 10012",
+      "tags": [
+        "asian",
+        "thai"
+      ],
+      "cuisine": "Thai",
+      "dish": "Thai chicken tenders",
+      "blurb": "Walk-up Thai chicken from the Thai Diner team, a few doors away.",
+      "lat": 40.721426,
+      "lng": -73.99562,
+      "matched": "203 MOTT ST, NEW YORK, NY, 10012",
+      "via": "census"
+    },
+    {
+      "id": "katz-s-delicatessen-lower-east-side-74",
+      "name": "Katz's Delicatessen",
+      "area": "Lower East Side",
+      "borough": "Manhattan",
+      "address": "205 E Houston St, New York, NY 10002",
+      "tags": [
+        "deli",
+        "sandwich"
+      ],
+      "cuisine": "Jewish deli",
+      "dish": "Pastrami sandwich",
+      "blurb": "Pastrami, hand-cut. Keep the ticket — they charge you from it on the way out.",
+      "lat": 40.72244,
+      "lng": -73.987234,
+      "matched": "205 E HOUSTON ST, NEW YORK, NY, 10002",
+      "via": "census"
+    },
+    {
+      "id": "zabar-s-upper-west-side-75",
+      "name": "Zabar's",
+      "area": "Upper West Side",
+      "borough": "Manhattan",
+      "address": "2245 Broadway, New York, NY 10024",
+      "tags": [
+        "deli",
+        "bakery"
+      ],
+      "cuisine": "Appetizing",
+      "dish": "Smoked fish and bagels",
+      "blurb": "Upper West Side market. Bagels, smoked fish, and the upstairs coffee counter.",
+      "lat": 40.784605,
+      "lng": -73.979505,
+      "matched": "2245 BROADWAY, NEW YORK, NY, 10024",
+      "via": "census"
+    },
+    {
+      "id": "utopia-bagels-whitestone-76",
+      "name": "Utopia Bagels",
+      "area": "Whitestone",
+      "borough": "Queens",
+      "address": "1909 Utopia Pkwy, Whitestone, NY 11357",
+      "tags": [
+        "deli",
+        "bakery"
+      ],
+      "cuisine": "Bagels",
+      "dish": "Everything bagel with scallion cream cheese and lox",
+      "blurb": "The Whitestone shop. Everything bagel, scallion cream cheese, sliced lox.",
+      "lat": 40.78034,
+      "lng": -73.793922,
+      "matched": "19-09 UTOPIA PKWY, WHITESTONE, NY, 11357",
+      "via": "census"
+    },
+    {
+      "id": "frankel-s-delicatessen-77",
+      "name": "Frankel's Delicatessen",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "deli"
+      ],
+      "cuisine": "Jewish deli",
+      "dish": "Smoked fish",
+      "blurb": "Appetizing shop from the deli list.",
+      "lat": 40.723913,
+      "lng": -73.951009,
+      "matched": "Frankel's Delicatessen and Appetizing, 631, Manhattan Avenue, Greenpoint, Brooklyn, Kings County, New York, 11222, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "russ-daughters-lower-east-side-78",
+      "name": "Russ & Daughters",
+      "area": "Lower East Side",
+      "borough": "Manhattan",
+      "address": "179 E Houston St, New York, NY 10002",
+      "tags": [
+        "deli"
+      ],
+      "cuisine": "Appetizing",
+      "dish": "Bagel and lox",
+      "blurb": "The classic appetizing counter on Houston. A short walk from Katz's, and a very different meal.",
+      "lat": 40.722737,
+      "lng": -73.988202,
+      "matched": "179 E HOUSTON ST, NEW YORK, NY, 10002",
+      "via": "census"
+    },
+    {
+      "id": "barney-greengrass-upper-west-side-79",
+      "name": "Barney Greengrass",
+      "area": "Upper West Side",
+      "borough": "Manhattan",
+      "address": "541 Amsterdam Ave, New York, NY 10024",
+      "tags": [
+        "deli"
+      ],
+      "cuisine": "Appetizing",
+      "dish": "Sturgeon and eggs",
+      "blurb": "The Sturgeon King. Upper West Side, closed Mondays — check the day.",
+      "lat": 40.787708,
+      "lng": -73.974914,
+      "matched": "541 AMSTERDAM AVE, NEW YORK, NY, 10024",
+      "via": "census"
+    },
+    {
+      "id": "tompkins-square-bagels-east-village-80",
+      "name": "Tompkins Square Bagels",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "165 Avenue A, New York, NY 10009",
+      "tags": [
+        "deli",
+        "bakery"
+      ],
+      "cuisine": "Bagels",
+      "dish": "Bagel with scallion cream cheese",
+      "blurb": "East Village bagel shop with a long topping list.",
+      "lat": 40.727923,
+      "lng": -73.982256,
+      "matched": "165 AVE A, NEW YORK, NY, 10009",
+      "via": "census"
+    },
+    {
+      "id": "2nd-ave-deli-murray-hill-81",
+      "name": "2nd Ave Deli",
+      "area": "Murray Hill",
+      "borough": "Manhattan",
+      "address": "162 E 33rd St, New York, NY 10016",
+      "tags": [
+        "deli",
+        "sandwich"
+      ],
+      "cuisine": "Jewish deli",
+      "dish": "Pastrami and matzo ball soup",
+      "blurb": "The Murray Hill location of the old Second Avenue deli.",
+      "lat": 40.745377,
+      "lng": -73.979513,
+      "matched": "162 E 33RD ST, NEW YORK, NY, 10016",
+      "via": "census"
+    },
+    {
+      "id": "fedoroff-s-roast-pork-williamsburg-82",
+      "name": "Fedoroff's Roast Pork",
+      "area": "Williamsburg",
+      "borough": "Brooklyn",
+      "address": "178 N 10th St, Brooklyn, NY 11211",
+      "tags": [
+        "sandwich"
+      ],
+      "cuisine": "Cheesesteak",
+      "dish": "Roast pork sandwich",
+      "blurb": "Philly-style roast pork and cheesesteaks in Williamsburg.",
+      "lat": 40.719088,
+      "lng": -73.955411,
+      "matched": "178 N 10TH ST, BROOKLYN, NY, 11211",
+      "via": "census"
+    },
+    {
+      "id": "mission-sandwich-social-83",
+      "name": "Mission Sandwich Social",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "sandwich"
+      ],
+      "cuisine": "Sandwiches",
+      "dish": "Sandwiches",
+      "blurb": "From the sandwich list.",
+      "lat": 40.713211,
+      "lng": -73.962251,
+      "matched": "Mission Sandwich, 326, Bedford Avenue, Williamsburg, Brooklyn, Kings County, New York, 11249, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "red-hook-tavern-red-hook-86",
+      "name": "Red Hook Tavern",
+      "area": "Red Hook",
+      "borough": "Brooklyn",
+      "address": "329 Van Brunt St, Brooklyn, NY 11231",
+      "tags": [
+        "burger"
+      ],
+      "cuisine": "Burger",
+      "dish": "Tavern burger",
+      "blurb": "A dry-aged burger in Red Hook. Pair the walk with Hometown Bar-B-Que nearby.",
+      "lat": 40.678,
+      "lng": -74.012036,
+      "matched": "329 VAN BRUNT ST, BROOKLYN, NY, 11231",
+      "via": "census"
+    },
+    {
+      "id": "gotham-burger-social-club-lower-east-side-87",
+      "name": "Gotham Burger Social Club",
+      "area": "Lower East Side",
+      "borough": "Manhattan",
+      "address": "131 Essex St, New York, NY 10002",
+      "tags": [
+        "burger"
+      ],
+      "cuisine": "Burger",
+      "dish": "Oklahoma onion burger",
+      "blurb": "Smashed onion burgers on Essex Street.",
+      "lat": 40.719909,
+      "lng": -73.987584,
+      "matched": "131 ESSEX ST, NEW YORK, NY, 10002",
+      "via": "census"
+    },
+    {
+      "id": "hamburger-america-soho-88",
+      "name": "Hamburger America",
+      "area": "SoHo",
+      "borough": "Manhattan",
+      "address": "155 W Houston St, New York, NY 10014",
+      "tags": [
+        "burger"
+      ],
+      "cuisine": "Burger",
+      "dish": "Counter burger",
+      "blurb": "George Motz's counter. A short menu and a stool.",
+      "lat": 40.728417,
+      "lng": -74.003988,
+      "matched": "155 W HOUSTON ST, NEW YORK, NY, 10014",
+      "via": "census"
+    },
+    {
+      "id": "flat-out-burger-lower-east-side-89",
+      "name": "Flat Out Burger",
+      "area": "Lower East Side",
+      "borough": "Manhattan",
+      "address": "139 Eldridge St, New York, NY 10002",
+      "tags": [
+        "burger"
+      ],
+      "cuisine": "Burger",
+      "dish": "Smash burger",
+      "blurb": "Lower East Side smash burgers.",
+      "lat": 40.719133,
+      "lng": -73.991546,
+      "matched": "139 ELDRIDGE ST, NEW YORK, NY, 10002",
+      "via": "census"
+    },
+    {
+      "id": "flat-out-burger-bedford-stuyvesant-90",
+      "name": "Flat Out Burger",
+      "area": "Bedford-Stuyvesant",
+      "borough": "Brooklyn",
+      "address": "199 Malcolm X Blvd, Brooklyn, NY 11221",
+      "tags": [
+        "burger"
+      ],
+      "cuisine": "Burger",
+      "dish": "Smash burger",
+      "blurb": "The Bed-Stuy shop.",
+      "lat": 40.686248,
+      "lng": -73.929649,
+      "matched": "199 MALCOLM X BLVD, BROOKLYN, NY, 11221",
+      "via": "census"
+    },
+    {
+      "id": "burger-joint-midtown-91",
+      "name": "Burger Joint",
+      "area": "Midtown",
+      "borough": "Manhattan",
+      "address": "119 W 56th St, New York, NY 10019",
+      "tags": [
+        "burger"
+      ],
+      "cuisine": "Burger",
+      "dish": "Burger and fries",
+      "blurb": "Hidden behind a curtain in the Le Parker Meridien lobby.",
+      "lat": 40.763934,
+      "lng": -73.978213,
+      "matched": "119 W 56TH ST, NEW YORK, NY, 10019",
+      "via": "census"
+    },
+    {
+      "id": "court-square-diner-long-island-city-92",
+      "name": "Court Square Diner",
+      "area": "Long Island City",
+      "borough": "Queens",
+      "address": "45-30 23rd St, Long Island City, NY 11101",
+      "tags": [
+        "diner"
+      ],
+      "cuisine": "Diner",
+      "dish": "Diner classics",
+      "blurb": "A stainless-steel diner by the Court Square trains.",
+      "lat": 40.74618,
+      "lng": -73.945619,
+      "matched": "45-30 23RD ST, LONG ISLAND CITY, NY, 11101",
+      "via": "census"
+    },
+    {
+      "id": "s-p-lunch-flatiron-96",
+      "name": "S&P Lunch",
+      "area": "Flatiron",
+      "borough": "Manhattan",
+      "address": "174 5th Ave, New York, NY 10010",
+      "tags": [
+        "diner",
+        "sandwich"
+      ],
+      "cuisine": "Lunch counter",
+      "dish": "Tuna sandwich",
+      "blurb": "The old Flatiron lunch counter.",
+      "lat": 40.740999,
+      "lng": -73.990067,
+      "matched": "174 5TH AVE, NEW YORK, NY, 10010",
+      "via": "census"
+    },
+    {
+      "id": "la-bonbonniere-west-village-98",
+      "name": "La Bonbonniere",
+      "area": "West Village",
+      "borough": "Manhattan",
+      "address": "28 8th Ave, New York, NY 10014",
+      "tags": [
+        "diner"
+      ],
+      "cuisine": "Diner",
+      "dish": "Eggs and home fries",
+      "blurb": "A tiny West Village diner. Cash is the safe assumption — check before you sit.",
+      "lat": 40.737847,
+      "lng": -74.004395,
+      "matched": "28 8TH AVE, NEW YORK, NY, 10014",
+      "via": "census"
+    },
+    {
+      "id": "old-john-s-luncheonette-99",
+      "name": "Old John's Luncheonette",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "diner"
+      ],
+      "cuisine": "Diner",
+      "dish": "Diner classics",
+      "blurb": "From the diner list.",
+      "lat": 40.775169,
+      "lng": -73.983648,
+      "matched": "Old John's Luncheonette, 148, West 67th Street, Lincoln Square, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "yoon-haeundae-galbi-100",
+      "name": "Yoon Haeundae Galbi",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "asian",
+        "korean"
+      ],
+      "cuisine": "Korean",
+      "dish": "Galbi",
+      "blurb": "Korean barbecue from the list.",
+      "lat": 40.749909,
+      "lng": -73.984463,
+      "matched": "Yoon Haeundae Galbi, 8, West 36th Street, Midtown South, Manhattan Community Board 5, Manhattan, New York County, New York, 10018, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "jongro-bbq-koreatown-101",
+      "name": "Jongro BBQ",
+      "area": "Koreatown",
+      "borough": "Manhattan",
+      "address": "22 W 32nd St, New York, NY 10001",
+      "tags": [
+        "asian",
+        "korean"
+      ],
+      "cuisine": "Korean",
+      "dish": "Galbi",
+      "blurb": "Second-floor Korean barbecue in Koreatown.",
+      "lat": 40.747364,
+      "lng": -73.986154,
+      "matched": "22 W 32ND ST, NEW YORK, NY, 10001",
+      "via": "census"
+    },
+    {
+      "id": "sylvia-s-harlem-102",
+      "name": "Sylvia's",
+      "area": "Harlem",
+      "borough": "Manhattan",
+      "address": "328 Malcolm X Blvd, New York, NY 10027",
+      "tags": [
+        "soul"
+      ],
+      "cuisine": "Soul food",
+      "dish": "Fried chicken and ribs",
+      "blurb": "Harlem soul food. The gospel brunch is a different scene from a weeknight dinner.",
+      "lat": 40.808731,
+      "lng": -73.9447,
+      "matched": "328 MALCOLM X BLVD, NEW YORK, NY, 10027",
+      "via": "census"
+    },
+    {
+      "id": "charles-pan-fried-chicken-103",
+      "name": "Charles Pan-Fried Chicken",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "soul",
+        "fried-chicken"
+      ],
+      "cuisine": "Soul food",
+      "dish": "Pan-fried chicken",
+      "blurb": "Harlem pan-fried chicken.",
+      "lat": 40.814561,
+      "lng": -73.948197,
+      "matched": "Charles Country Pan Fried Chicken, 2461, Frederick Douglass Boulevard, Harlem, Manhattan Community Board 10, Manhattan, New York County, New York, 10030, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "peaches-hothouse-bedford-stuyvesant-104",
+      "name": "Peaches HotHouse",
+      "area": "Bedford-Stuyvesant",
+      "borough": "Brooklyn",
+      "address": "415 Tompkins Ave, Brooklyn, NY 11216",
+      "tags": [
+        "soul",
+        "fried-chicken"
+      ],
+      "cuisine": "Soul food",
+      "dish": "Hot chicken",
+      "blurb": "Bed-Stuy hot chicken and sides.",
+      "lat": 40.683306,
+      "lng": -73.943827,
+      "matched": "415 TOMPKINS AVE, BROOKLYN, NY, 11216",
+      "via": "census"
+    },
+    {
+      "id": "gray-s-papaya-upper-west-side-105",
+      "name": "Gray's Papaya",
+      "area": "Upper West Side",
+      "borough": "Manhattan",
+      "address": "2090 Broadway, New York, NY 10023",
+      "tags": [
+        "hot-dog"
+      ],
+      "cuisine": "Hot dogs",
+      "dish": "Frank and papaya juice",
+      "blurb": "Recession special energy: a hot dog and a papaya drink at the Broadway shop.",
+      "lat": 40.778377,
+      "lng": -73.981575,
+      "matched": "Gray's Papaya, 2090, Broadway, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "peter-luger-williamsburg-106",
+      "name": "Peter Luger",
+      "area": "Williamsburg",
+      "borough": "Brooklyn",
+      "address": "178 Broadway, Brooklyn, NY 11211",
+      "tags": [
+        "steak"
+      ],
+      "cuisine": "Steakhouse",
+      "dish": "Porterhouse",
+      "blurb": "Williamsburg steakhouse. Cash or Peter Luger card — regular credit cards are not the plan. Reserve.",
+      "lat": 40.710129,
+      "lng": -73.963099,
+      "matched": "178 BROADWAY, BROOKLYN, NY, 11211",
+      "via": "census"
+    },
+    {
+      "id": "margon-midtown-107",
+      "name": "Margon",
+      "area": "Midtown",
+      "borough": "Manhattan",
+      "address": "136 W 46th St, New York, NY 10036",
+      "tags": [
+        "latin",
+        "cuban"
+      ],
+      "cuisine": "Cuban",
+      "dish": "Cuban lunch counter",
+      "blurb": "A Theater District Cuban counter. Fast and inexpensive relative to the block.",
+      "lat": 40.757783,
+      "lng": -73.98335,
+      "matched": "136 W 46TH ST, NEW YORK, NY, 10036",
+      "via": "census"
+    },
+    {
+      "id": "el-castillo-de-jagua-108",
+      "name": "El Castillo de Jagua",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "latin",
+        "dominican"
+      ],
+      "cuisine": "Dominican",
+      "dish": "Dominican classics",
+      "blurb": "Dominican restaurant from the list.",
+      "lat": 40.714385,
+      "lng": -73.981835,
+      "matched": "El Castillo De Jagua, 521, Grand Street, Lower East Side, Manhattan Community Board 3, Manhattan, New York County, New York, 10002, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "hometown-bar-b-que-red-hook-111",
+      "name": "Hometown Bar-B-Que",
+      "area": "Red Hook",
+      "borough": "Brooklyn",
+      "address": "454 Van Brunt St, Brooklyn, NY 11231",
+      "tags": [
+        "bbq"
+      ],
+      "cuisine": "Barbecue",
+      "dish": "Brisket and ribs",
+      "blurb": "Red Hook barbecue. A short walk from Red Hook Tavern.",
+      "lat": 40.675048,
+      "lng": -74.015703,
+      "matched": "454 VAN BRUNT ST, BROOKLYN, NY, 11231",
+      "via": "census"
+    },
+    {
+      "id": "punjabi-grocery-deli-east-village-112",
+      "name": "Punjabi Grocery & Deli",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "114 E 1st St, New York, NY 10009",
+      "tags": [
+        "indian"
+      ],
+      "cuisine": "Indian",
+      "dish": "Veggie thali",
+      "blurb": "A tiny East Village counter. The vegetarian special is the order.",
+      "lat": 40.722662,
+      "lng": -73.986829,
+      "matched": "114 E 1ST ST, NEW YORK, NY, 10009",
+      "via": "census"
+    },
+    {
+      "id": "the-commodore-williamsburg-113",
+      "name": "The Commodore",
+      "area": "Williamsburg",
+      "borough": "Brooklyn",
+      "address": "366 Metropolitan Ave, Brooklyn, NY 11211",
+      "tags": [
+        "fried-chicken"
+      ],
+      "cuisine": "Fried chicken",
+      "dish": "Fried chicken",
+      "blurb": "A Williamsburg bar where the reason to go is the fried chicken.",
+      "lat": 40.71403,
+      "lng": -73.955804,
+      "matched": "366 METROPOLITAN AVE, BROOKLYN, NY, 11211",
+      "via": "census"
+    },
+    {
+      "id": "j-g-melon-upper-east-side-115",
+      "name": "J.G. Melon",
+      "area": "Upper East Side",
+      "borough": "Manhattan",
+      "address": "1291 3rd Ave, New York, NY 10021",
+      "tags": [
+        "burger"
+      ],
+      "cuisine": "Burger",
+      "dish": "Cheeseburger",
+      "blurb": "The Upper East Side tavern burger. No substitutions culture — get the cheeseburger.",
+      "lat": 40.771138,
+      "lng": -73.959503,
+      "matched": "1291 3RD AVE, NEW YORK, NY, 10021",
+      "via": "census"
+    },
+    {
+      "id": "l-b-spumoni-gardens-bensonhurst-116",
+      "name": "L&B Spumoni Gardens",
+      "area": "Bensonhurst",
+      "borough": "Brooklyn",
+      "address": "2725 86th St, Brooklyn, NY 11223",
+      "tags": [
+        "pizza",
+        "italian",
+        "bakery"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Square slice",
+      "blurb": "The upside-down square slice, sauce on top of the cheese, plus spumoni.",
+      "lat": 40.594441,
+      "lng": -73.98132,
+      "matched": "2725 86TH ST, BROOKLYN, NY, 11223",
+      "via": "census"
+    },
+    {
+      "id": "william-greenberg-desserts-117",
+      "name": "William Greenberg Desserts",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "bakery"
+      ],
+      "cuisine": "Bakery",
+      "dish": "Black-and-white cookie",
+      "blurb": "The black-and-white cookie stop.",
+      "lat": 40.778543,
+      "lng": -73.960686,
+      "matched": "William Greenberg Desserts, 1110, Madison Avenue, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "veselka-east-village-118",
+      "name": "Veselka",
+      "area": "East Village",
+      "borough": "Manhattan",
+      "address": "144 2nd Ave, New York, NY 10003",
+      "tags": [
+        "eastern-european",
+        "diner"
+      ],
+      "cuisine": "Ukrainian",
+      "dish": "Potato pierogi",
+      "blurb": "East Village Ukrainian diner. Potato pierogi, any hour you are likely to be awake.",
+      "lat": 40.729117,
+      "lng": -73.987209,
+      "matched": "144 2ND AVE, NEW YORK, NY, 10003",
+      "via": "census"
+    },
+    {
+      "id": "keens-steakhouse-herald-square-119",
+      "name": "Keens Steakhouse",
+      "area": "Herald Square",
+      "borough": "Manhattan",
+      "address": "72 W 36th St, New York, NY 10018",
+      "tags": [
+        "steak"
+      ],
+      "cuisine": "Steakhouse",
+      "dish": "Mutton chop",
+      "blurb": "The mutton chop, under a ceiling of clay pipes. Reserve.",
+      "lat": 40.750651,
+      "lng": -73.985984,
+      "matched": "72 W 36TH ST, NEW YORK, NY, 10018",
+      "via": "census"
+    },
+    {
+      "id": "le-bernardin-midtown-120",
+      "name": "Le Bernardin",
+      "area": "Midtown",
+      "borough": "Manhattan",
+      "address": "155 W 51st St, New York, NY 10019",
+      "tags": [
+        "seafood"
+      ],
+      "cuisine": "Seafood",
+      "dish": "Thinly pounded yellowfin tuna",
+      "blurb": "The tasting-menu seafood room. This is a special-occasion reservation, not a walk-in.",
+      "lat": 40.761231,
+      "lng": -73.98149,
+      "matched": "155 W 51ST ST, NEW YORK, NY, 10019",
+      "via": "census"
+    },
+    {
+      "id": "fortunato-brothers-williamsburg-121",
+      "name": "Fortunato Brothers",
+      "area": "Williamsburg",
+      "borough": "Brooklyn",
+      "address": "289 Manhattan Ave, Brooklyn, NY 11211",
+      "tags": [
+        "italian",
+        "bakery"
+      ],
+      "cuisine": "Italian bakery",
+      "dish": "Sfogliatella",
+      "blurb": "Williamsburg pastry shop. Get the sfogliatella.",
+      "lat": 40.713684,
+      "lng": -73.946031,
+      "matched": "289 MANHATTAN AVE, BROOKLYN, NY, 11211",
+      "via": "census"
+    },
+    {
+      "id": "lexington-candy-shop-upper-east-side-122",
+      "name": "Lexington Candy Shop",
+      "area": "Upper East Side",
+      "borough": "Manhattan",
+      "address": "1226 Lexington Ave, New York, NY 10028",
+      "tags": [
+        "diner"
+      ],
+      "cuisine": "Luncheonette",
+      "dish": "Chocolate egg cream",
+      "blurb": "A 1920s luncheonette. The chocolate egg cream is the order from the classics list.",
+      "lat": 40.777521,
+      "lng": -73.957111,
+      "matched": "1226 LEXINGTON AVE, NEW YORK, NY, 10028",
+      "via": "census"
+    },
+    {
+      "id": "la-morada-mott-haven-124",
+      "name": "La Morada",
+      "area": "Mott Haven",
+      "borough": "Bronx",
+      "address": "308 Willis Ave, Bronx, NY 10454",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Mole poblano",
+      "blurb": "Oaxacan mole in Mott Haven. The mole poblano is the dish.",
+      "lat": 40.810535,
+      "lng": -73.921764,
+      "matched": "308 WILLIS AVE, BRONX, NY, 10454",
+      "via": "census"
+    },
+    {
+      "id": "cho-dang-gol-koreatown-125",
+      "name": "Cho Dang Gol",
+      "area": "Koreatown",
+      "borough": "Manhattan",
+      "address": "55 W 35th St, New York, NY 10001",
+      "tags": [
+        "asian",
+        "korean"
+      ],
+      "cuisine": "Korean",
+      "dish": "Spicy kimchi tofu stew",
+      "blurb": "Tofu made in house. The kimchi soondubu is the bowl from the list.",
+      "lat": 40.749891,
+      "lng": -73.985808,
+      "matched": "55 W 35TH ST, NEW YORK, NY, 10001",
+      "via": "census"
+    },
+    {
+      "id": "brennan-carr-sheepshead-bay-126",
+      "name": "Brennan & Carr",
+      "area": "Sheepshead Bay",
+      "borough": "Brooklyn",
+      "address": "3432 Nostrand Ave, Brooklyn, NY 11229",
+      "tags": [
+        "sandwich"
+      ],
+      "cuisine": "Roast beef",
+      "dish": "Double-dip roast beef",
+      "blurb": "Roast beef dipped twice in gravy. A south-Brooklyn drive or a long subway ride.",
+      "lat": 40.600245,
+      "lng": -73.94193,
+      "matched": "3432 NOSTRAND AVE, BROOKLYN, NY, 11229",
+      "via": "census"
+    },
+    {
+      "id": "gino-s-of-bay-ridge-bay-ridge-127",
+      "name": "Gino's of Bay Ridge",
+      "area": "Bay Ridge",
+      "borough": "Brooklyn",
+      "tags": [
+        "italian"
+      ],
+      "cuisine": "Italian",
+      "dish": "Hot antipasto platter",
+      "blurb": "Bay Ridge Italian. The hot antipasto platter is the one on the classics list.",
+      "lat": 40.630179,
+      "lng": -74.022431,
+      "matched": "7414 5TH AVE, BROOKLYN, NY, 11209",
+      "via": "census",
+      "address": "7414 5th Ave, Brooklyn, NY 11209"
+    },
+    {
+      "id": "la-dinastia-128",
+      "name": "La Dinastia",
+      "area": "",
+      "borough": "",
+      "tags": [
+        "latin",
+        "dominican"
+      ],
+      "cuisine": "Dominican",
+      "dish": "Boneless chicken cracklings",
+      "blurb": "Boneless chicken cracklings.",
+      "lat": 40.843178,
+      "lng": -73.939393,
+      "matched": "La Dinastia Restaurant, 4057, Broadway, Washington Heights, Manhattan Community Board 12, Manhattan, New York County, New York, 10032, United States",
+      "via": "nominatim"
+    },
+    {
+      "id": "delmonico-s-financial-district-129",
+      "name": "Delmonico's",
+      "area": "Financial District",
+      "borough": "Manhattan",
+      "address": "56 Beaver St, New York, NY 10004",
+      "tags": [
+        "steak"
+      ],
+      "cuisine": "Steakhouse",
+      "dish": "Delmonico ribeye",
+      "blurb": "The Financial District steakhouse. The namesake ribeye.",
+      "lat": 40.705067,
+      "lng": -74.01029,
+      "matched": "56 BEAVER ST, NEW YORK, NY, 10004",
+      "via": "census"
+    },
+    {
+      "id": "peter-pan-donut-pastry-shop-greenpoint-131",
+      "name": "Peter Pan Donut & Pastry Shop",
+      "area": "Greenpoint",
+      "borough": "Brooklyn",
+      "address": "727 Manhattan Ave, Brooklyn, NY 11222",
+      "tags": [
+        "bakery"
+      ],
+      "cuisine": "Donuts",
+      "dish": "Sour cream donut",
+      "blurb": "Greenpoint donut shop. The sour cream donut is the one to get.",
+      "lat": 40.726087,
+      "lng": -73.952189,
+      "matched": "727 MANHATTAN AVE, BROOKLYN, NY, 11222",
+      "via": "census"
+    },
+    {
+      "id": "lenox-thai-lenox-hill-110",
+      "name": "Lenox Thai",
+      "area": "Lenox Hill",
+      "borough": "Manhattan",
+      "address": "1217 1st Ave, New York, NY 10065",
+      "tags": [
+        "asian",
+        "thai"
+      ],
+      "cuisine": "Thai",
+      "dish": "Drunken noodles",
+      "blurb": "Drunken noodles with a lot of beef. The post also mentions friendly service.",
+      "lat": 40.763863,
+      "lng": -73.958961,
+      "matched": "1217 1ST AVE, NEW YORK, NY, 10065",
+      "via": "census"
+    },
+    {
+      "id": "esse-taco-williamsburg-111",
+      "name": "Esse Taco",
+      "area": "Williamsburg",
+      "borough": "Brooklyn",
+      "address": "219 Bedford Ave, Brooklyn, NY 11211",
+      "tags": [
+        "mexican"
+      ],
+      "cuisine": "Mexican",
+      "dish": "Tacos",
+      "blurb": "Williamsburg taqueria on Bedford Avenue.",
+      "lat": 40.716571,
+      "lng": -73.958984,
+      "matched": "219 BEDFORD AVE, BROOKLYN, NY, 11211",
+      "via": "census"
+    },
+    {
+      "id": "1915-lanzhou-hand-pulled-noodles-chinatown-112",
+      "name": "1915 Lanzhou Hand-Pulled Noodles",
+      "area": "Chinatown",
+      "borough": "Manhattan",
+      "address": "76 Mott St, New York, NY 10013",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "Lanzhou beef noodles",
+      "blurb": "Beef noodle shop in Chinatown. The list ran this name together with a Fuzhou place.",
+      "lat": 40.716418,
+      "lng": -73.997922,
+      "matched": "76 MOTT ST, NEW YORK, NY, 10013",
+      "via": "census"
+    },
+    {
+      "id": "1915-lanzhou-hand-pulled-noodles-kips-bay-113",
+      "name": "1915 Lanzhou Hand-Pulled Noodles",
+      "area": "Kips Bay",
+      "borough": "Manhattan",
+      "address": "207 E 26th St, New York, NY 10016",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "Lanzhou beef noodles",
+      "blurb": "The Kips Bay location of the Lanzhou noodle shop.",
+      "lat": 40.740606,
+      "lng": -73.981305,
+      "matched": "207 E 26TH ST, NEW YORK, NY, 10010",
+      "via": "census"
+    },
+    {
+      "id": "sky-pavilion-times-square-114",
+      "name": "Sky Pavilion",
+      "area": "Times Square",
+      "borough": "Manhattan",
+      "address": "325 W 42nd St, New York, NY 10036",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "Dim sum and Chinese plates",
+      "blurb": "From the Chinese list. This one is in Times Square, not Flushing.",
+      "lat": 40.757726,
+      "lng": -73.990814,
+      "matched": "325 W 42ND ST, NEW YORK, NY, 10036",
+      "via": "census"
+    },
+    {
+      "id": "188-bakery-cuchifritos-fordham-115",
+      "name": "188 Bakery Cuchifritos",
+      "area": "Fordham",
+      "borough": "Bronx",
+      "address": "158 E 188th St, Bronx, NY 10468",
+      "tags": [
+        "latin",
+        "puerto-rican",
+        "bakery"
+      ],
+      "cuisine": "Puerto Rican bakery",
+      "dish": "Cuchifritos",
+      "blurb": "Bronx bakery counter. The 188 in the name is the street.",
+      "lat": 40.861601,
+      "lng": -73.898436,
+      "matched": "158 E 188TH ST, BRONX, NY, 10468",
+      "via": "census"
+    },
+    {
+      "id": "strange-delight-fort-greene-116",
+      "name": "Strange Delight",
+      "area": "Fort Greene",
+      "borough": "Brooklyn",
+      "address": "63 Lafayette Ave, Brooklyn, NY 11217",
+      "tags": [
+        "seafood"
+      ],
+      "cuisine": "Seafood",
+      "dish": "Oyster happy hour",
+      "blurb": "Fort Greene oyster bar. The list calls out the oyster happy hour.",
+      "lat": 40.68712,
+      "lng": -73.975801,
+      "matched": "63 LAFAYETTE AVE, BROOKLYN, NY, 11217",
+      "via": "census"
+    },
+    {
+      "id": "renee-s-kitchenette-grille-woodside-117",
+      "name": "Renee's Kitchenette & Grille",
+      "area": "Woodside",
+      "borough": "Queens",
+      "address": "69-14 Roosevelt Ave, Woodside, NY 11377",
+      "tags": [
+        "asian",
+        "filipino"
+      ],
+      "cuisine": "Filipino",
+      "dish": "Chicken adobo",
+      "blurb": "Little Manila staple under the 7 train. Chicken adobo is the dish from the classics list.",
+      "lat": 40.746294,
+      "lng": -73.896132,
+      "matched": "69-14 ROOSEVELT AVE, WOODSIDE, NY, 11377",
+      "via": "census"
+    },
+    {
+      "id": "ali-s-roti-shop-south-richmond-hill-118",
+      "name": "Ali's Roti Shop",
+      "area": "South Richmond Hill",
+      "borough": "Queens",
+      "address": "127-17 Liberty Ave, South Richmond Hill, NY 11419",
+      "tags": [
+        "caribbean"
+      ],
+      "cuisine": "Trinidadian",
+      "dish": "Doubles",
+      "blurb": "Doubles and roti on Liberty Avenue. Some listings mark this shop closed, so check before the trip.",
+      "lat": 40.68888,
+      "lng": -73.817527,
+      "matched": "127-17 LIBERTY AVE, SOUTH RICHMOND HILL, NY, 11419",
+      "via": "census"
+    },
+    {
+      "id": "lechonera-la-isla-east-harlem-119",
+      "name": "Lechonera La Isla",
+      "area": "East Harlem",
+      "borough": "Manhattan",
+      "address": "254 E 125th St, New York, NY 10035",
+      "tags": [
+        "latin",
+        "puerto-rican"
+      ],
+      "cuisine": "Puerto Rican",
+      "dish": "Lechón",
+      "blurb": "East Harlem roast pork. Lechón is the order.",
+      "lat": 40.803129,
+      "lng": -73.934624,
+      "matched": "254 E 125TH ST, NEW YORK, NY, 10035",
+      "via": "census"
+    },
+    {
+      "id": "kai-feng-fu-dumpling-house-sunset-park-120",
+      "name": "Kai Feng Fu Dumpling House",
+      "area": "Sunset Park",
+      "borough": "Brooklyn",
+      "address": "4801 8th Ave, Brooklyn, NY 11220",
+      "tags": [
+        "asian",
+        "chinese"
+      ],
+      "cuisine": "Chinese",
+      "dish": "Fried pork and chive dumplings",
+      "blurb": "Sunset Park dumpling shop. Fried pork and chive dumplings.",
+      "lat": 40.642156,
+      "lng": -74.002531,
+      "matched": "4801 8TH AVE, BROOKLYN, NY, 11220",
+      "via": "census"
+    },
+    {
+      "id": "tony-s-beechhurst-deli-whitestone-121",
+      "name": "Tony's Beechhurst Deli",
+      "area": "Whitestone",
+      "borough": "Queens",
+      "address": "11-18 154th St, Whitestone, NY 11357",
+      "tags": [
+        "italian",
+        "deli",
+        "sandwich"
+      ],
+      "cuisine": "Italian deli",
+      "dish": "Italian sandwiches",
+      "blurb": "Italian deli in Whitestone, up by the Whitestone Bridge.",
+      "lat": 40.792135,
+      "lng": -73.807325,
+      "matched": "11-18 154TH ST, WHITESTONE, NY, 11357",
+      "via": "census"
+    },
+    {
+      "id": "tina-s-place-bushwick-122",
+      "name": "Tina's Place",
+      "area": "Bushwick",
+      "borough": "Brooklyn",
+      "address": "1002 Flushing Ave, Brooklyn, NY 11206",
+      "tags": [
+        "diner"
+      ],
+      "cuisine": "Diner",
+      "dish": "Breakfast",
+      "blurb": "Bushwick diner. Strongest as a breakfast stop.",
+      "lat": 40.703692,
+      "lng": -73.931188,
+      "matched": "1002 FLUSHING AVE, BROOKLYN, NY, 11206",
+      "via": "census"
+    },
+    {
+      "id": "johny-s-luncheonette-chelsea-123",
+      "name": "Johny's Luncheonette",
+      "area": "Chelsea",
+      "borough": "Manhattan",
+      "address": "124 W 25th St, New York, NY 10001",
+      "tags": [
+        "diner"
+      ],
+      "cuisine": "Diner",
+      "dish": "Diner classics",
+      "blurb": "Chelsea luncheonette, spelled Johny's on the awning.",
+      "lat": 40.744446,
+      "lng": -73.992635,
+      "matched": "124 W 25TH ST, NEW YORK, NY, 10001",
+      "via": "census"
+    },
+    {
+      "id": "john-s-coffee-shop-midtown-east-124",
+      "name": "John's Coffee Shop",
+      "area": "Midtown East",
+      "borough": "Manhattan",
+      "address": "823 2nd Ave, New York, NY 10017",
+      "tags": [
+        "diner"
+      ],
+      "cuisine": "Diner",
+      "dish": "Diner classics",
+      "blurb": "Midtown East coffee shop from the diner list.",
+      "lat": 40.751096,
+      "lng": -73.971367,
+      "matched": "823 2ND AVE, NEW YORK, NY, 10017",
+      "via": "census"
+    },
+    {
+      "id": "jonny-s-pizza-lower-east-side-125",
+      "name": "Jonny's Pizza",
+      "area": "Lower East Side",
+      "borough": "Manhattan",
+      "address": "173 Orchard St, New York, NY 10002",
+      "tags": [
+        "pizza"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "Orchard Street slice shop.",
+      "lat": 40.721538,
+      "lng": -73.988563,
+      "matched": "173 ORCHARD ST, NEW YORK, NY, 10002",
+      "via": "census"
+    },
+    {
+      "id": "leo-s-casa-calamari-bay-ridge-126",
+      "name": "Leo's Casa Calamari",
+      "area": "Bay Ridge",
+      "borough": "Brooklyn",
+      "address": "8502 3rd Ave, Brooklyn, NY 11209",
+      "tags": [
+        "pizza",
+        "italian"
+      ],
+      "cuisine": "Pizza",
+      "dish": "Slice",
+      "blurb": "The pizza list only says Leo. This is the Bay Ridge shop by that name.",
+      "lat": 40.624273,
+      "lng": -74.03081,
+      "matched": "8502 3RD AVE, BROOKLYN, NY, 11209",
+      "via": "census"
+    },
+    {
+      "id": "haji-s-famous-deli-east-harlem-127",
+      "name": "Haji's Famous Deli",
+      "area": "East Harlem",
+      "borough": "Manhattan",
+      "address": "2135 1st Ave, New York, NY 10029",
+      "tags": [
+        "sandwich",
+        "deli"
+      ],
+      "cuisine": "Deli",
+      "dish": "Chopped cheese",
+      "blurb": "The East Harlem chopped cheese counter, also called Blue Sky Deli or Hajji's.",
+      "lat": 40.792045,
+      "lng": -73.938381,
+      "matched": "2135 1ST AVE, NEW YORK, NY, 10029",
+      "via": "census"
+    }
+  ],
+  "failures": [
+    {
+      "name": "Ella Spice",
+      "area": "",
+      "q": "Ella Spice restaurant New York"
+    },
+    {
+      "name": "Lenox Thai",
+      "area": "",
+      "q": "Lenox Thai New York"
+    },
+    {
+      "name": "Joe & Pat's",
+      "area": "East Village",
+      "q": "Joe and Pat's Pizzeria 1st Avenue New York"
+    },
+    {
+      "name": "Jonny's Pizza",
+      "area": "",
+      "q": "Jonny's Pizza New York"
+    },
+    {
+      "name": "Tony's Beechhurst Deli",
+      "area": "Beechhurst",
+      "q": "Tony's Beechhurst Deli Queens"
+    },
+    {
+      "name": "Esse Taco",
+      "area": "",
+      "q": "Esse Taco Brooklyn"
+    },
+    {
+      "name": "El Jalapeño",
+      "area": "",
+      "q": "El Jalapeño restaurant New York City"
+    },
+    {
+      "name": "Cheung Fun Cart",
+      "area": "Chinatown",
+      "q": "cheung fun cart Chinatown New York"
+    },
+    {
+      "name": "1915 Lanzhou Hand-Pulled Noodles",
+      "area": "",
+      "q": "1915 Lanzhou Hand Pulled Noodles New York"
+    },
+    {
+      "name": "Sky Pavilion",
+      "area": "",
+      "q": "Sky Pavilion restaurant Flushing New York"
+    },
+    {
+      "name": "Bodega Truck",
+      "area": "",
+      "q": "Bodega Truck New York"
+    },
+    {
+      "name": "Haji's Famous Deli",
+      "area": "",
+      "q": "Haji's Famous Deli chopped cheese New York"
+    },
+    {
+      "name": "John's Coffee Shop",
+      "area": "",
+      "q": "John's Coffee Shop diner New York"
+    },
+    {
+      "name": "Johnny's Luncheonette",
+      "area": "",
+      "q": "Johnny's Luncheonette New York"
+    },
+    {
+      "name": "Zafi's Luncheonette",
+      "area": "",
+      "q": "Zafi's Luncheonette New York"
+    },
+    {
+      "name": "Tina's Place",
+      "area": "",
+      "q": "Tina's Place diner New York"
+    },
+    {
+      "name": "188 Bakery Cuchifritos",
+      "area": "",
+      "q": "188 Bakery Cuchifritos New York"
+    },
+    {
+      "name": "Strange Delight",
+      "area": "",
+      "q": "Strange Delight oyster New York"
+    },
+    {
+      "name": "Ursula",
+      "area": "Brooklyn",
+      "q": "Ursula Brooklyn breakfast burrito"
+    },
+    {
+      "name": "Renee's Kitchenette & Grille",
+      "area": "",
+      "q": "Renee's Kitchenette Grille New York"
+    },
+    {
+      "name": "Kai Feng Fu Dumpling House",
+      "area": "",
+      "q": "Kai Feng Fu Dumpling House Flushing"
+    },
+    {
+      "name": "Ali's Roti Shop",
+      "area": "",
+      "q": "Ali's Roti Shop New York doubles"
+    },
+    {
+      "name": "Lechonera La Isla",
+      "area": "",
+      "q": "Lechonera La Isla New York"
+    }
+  ],
+  "unplaced": [
+    {
+      "name": "Ella Spice",
+      "cuisine": "Grenadian",
+      "dish": "Breadfruit balls",
+      "note": "Grenadian spot from the photo roundup. No reliable street address turned up."
+    },
+    {
+      "name": "Cheung Fun Cart",
+      "cuisine": "Chinese",
+      "dish": "Cheung fun",
+      "note": "A Chinatown street cart. The corner changes, so it is not pinned."
+    },
+    {
+      "name": "Bodega Truck",
+      "cuisine": "Sandwiches",
+      "dish": "Sandwiches",
+      "note": "A truck. Check where it is parked that day."
+    },
+    {
+      "name": "El Jalapeño",
+      "cuisine": "Mexican",
+      "dish": "Tacos",
+      "note": "Several places share this name, so it is not pinned."
+    }
+  ]
+}
