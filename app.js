@@ -35,7 +35,7 @@ const state = {
   query: "",
   radius: "all",
   selectedId: null,
-  sheet: "half",
+  sheet: "closed",
   follow: false,
   location: null,
   locationNote: "Turn on location to sort by what's around you.",
@@ -330,7 +330,8 @@ function focusSpot(spot) {
   const zoom = Math.max(map.getZoom(), 15);
   const point = map.project([spot.lat, spot.lng], zoom);
   const desktop = window.innerWidth >= 900;
-  const center = map.unproject(point.add([desktop ? -180 : 0, desktop ? 0 : 120]), zoom);
+  const sheetHeightPx = desktop ? 0 : sheet.getBoundingClientRect().height;
+  const center = map.unproject(point.add([desktop ? -180 : 0, desktop ? 0 : Math.round(sheetHeightPx * 0.35)]), zoom);
   map.flyTo(center, zoom, { duration: 0.45 });
 }
 
@@ -468,18 +469,68 @@ sheetBody.addEventListener("click", (event) => {
   if (card) select(card.dataset.id);
 });
 
-const handle = document.getElementById("handle");
-let dragY = 0;
-handle.addEventListener("pointerdown", (event) => {
-  dragY = event.clientY;
+const SHEET_SIZES = ["closed", "peek", "half", "full"];
+
+function sheetHeight(size) {
+  const viewport = window.innerHeight;
+  if (size === "closed") return 72;
+  if (size === "peek") return 108;
+  if (size === "half") return Math.round(viewport * 0.4);
+  return Math.round(viewport - 156);
+}
+
+function snapSheet(height, direction, startHeight) {
+  const sizes = SHEET_SIZES.map((id) => ({ id, height: sheetHeight(id) }));
+  const pool = direction > 0
+    ? sizes.filter((item) => item.height > startHeight + 8)
+    : sizes.filter((item) => item.height < startHeight - 8);
+  const choices = pool.length ? pool : sizes;
+  return choices.reduce((best, item) => (
+    Math.abs(item.height - height) < Math.abs(best.height - height) ? item : best
+  )).id;
+}
+
+let sheetDrag = null;
+
+function finishSheetDrag(event) {
+  if (!sheetDrag) return;
+  const delta = sheetDrag.y - event.clientY;
+  const height = sheet.getBoundingClientRect().height;
+  const startHeight = sheetDrag.height;
+  state.sheet = Math.abs(delta) < 14
+    ? (state.sheet === "closed" || state.sheet === "peek" ? "half" : "closed")
+    : snapSheet(height, delta > 0 ? 1 : -1, startHeight);
+  sheetDrag = null;
+  sheet.classList.remove("is-dragging");
+  sheet.style.height = "";
+  sheet.dataset.size = state.sheet;
+}
+
+sheet.addEventListener("pointerdown", (event) => {
+  if (window.innerWidth >= 900) return;
+  if (event.target.closest("input, label, a, button:not(#handle)")) return;
+  const onHandle = event.target.closest("#handle");
+  const onHead = event.target.closest(".sheet-head");
+  if (!onHandle && !onHead) return;
+  try { sheet.setPointerCapture(event.pointerId); } catch (error) { /* pointer may already be gone */ }
+  sheetDrag = { y: event.clientY, height: sheet.getBoundingClientRect().height };
+  sheet.classList.add("is-dragging");
 });
-handle.addEventListener("pointerup", (event) => {
-  const delta = dragY - event.clientY;
-  const steps = ["peek", "half", "full"];
-  let index = steps.indexOf(state.sheet);
-  if (Math.abs(delta) < 12) index = Math.min(steps.length - 1, index + 1);
-  else index = Math.max(0, Math.min(steps.length - 1, index + (delta > 0 ? 1 : -1)));
-  state.sheet = steps[index];
+
+sheet.addEventListener("pointermove", (event) => {
+  if (!sheetDrag) return;
+  const next = sheetDrag.height + (sheetDrag.y - event.clientY);
+  const min = sheetHeight("closed");
+  const max = sheetHeight("full");
+  sheet.style.height = `${Math.min(max, Math.max(min, next))}px`;
+});
+
+sheet.addEventListener("pointerup", finishSheetDrag);
+sheet.addEventListener("pointercancel", () => {
+  if (!sheetDrag) return;
+  sheetDrag = null;
+  sheet.classList.remove("is-dragging");
+  sheet.style.height = "";
   sheet.dataset.size = state.sheet;
 });
 
@@ -487,7 +538,7 @@ const bounds = L.latLngBounds(FOOD_SPOTS.filter((spot) => spot.lat != null).map(
 const desktop = window.innerWidth >= 900;
 map.fitBounds(bounds, {
   paddingTopLeft: desktop ? [430, 40] : [24, 188],
-  paddingBottomRight: desktop ? [40, 40] : [24, 230],
+  paddingBottomRight: desktop ? [40, 40] : [24, 80],
 });
 
 buildFilters();
