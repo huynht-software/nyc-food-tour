@@ -1141,7 +1141,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Burger",
     "dish": "Tavern burger",
-    "blurb": "A dry-aged burger in Red Hook. Pair the walk with Hometown Bar-B-Que nearby."
+    "blurb": "Best burger of the trip, a 10/10. Juicy patty, crisp bread, and a pop of onion. Ranked above Rolo's and Peter Luger."
   },
   {
     "id": "gotham-burger-social-club-lower-east-side",
@@ -1156,7 +1156,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Burger",
     "dish": "Oklahoma onion burger",
-    "blurb": "Smashed onion burgers on Essex Street."
+    "blurb": "Spicy smash burger, 8/10, and the only one eaten twice. Soft and gone in a few bites."
   },
   {
     "id": "hamburger-america-soho",
@@ -1171,7 +1171,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Burger",
     "dish": "Counter burger",
-    "blurb": "George Motz's counter. A short menu and a stool."
+    "blurb": "An 8/10 when 7th Street Burger was shut. A much better version of a fast-food burger."
   },
   {
     "id": "flat-out-burger-lower-east-side",
@@ -1293,7 +1293,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Korean",
     "dish": "Galbi",
-    "blurb": "Korean barbecue from the list."
+    "blurb": "The pricey Korean barbecue pick, on 36th Street."
   },
   {
     "id": "jongro-bbq-koreatown",
@@ -1309,7 +1309,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Korean",
     "dish": "Galbi",
-    "blurb": "Second-floor Korean barbecue in Koreatown."
+    "blurb": "Second-floor Korean barbecue in Koreatown. The pricier of the two barbecue picks."
   },
   {
     "id": "sylvia-s-harlem",
@@ -1382,11 +1382,12 @@ window.FOOD_SPOTS = [
     "lat": 40.710129,
     "lng": -73.963099,
     "tags": [
-      "steak"
+      "steak",
+      "burger"
     ],
     "cuisine": "Steakhouse",
-    "dish": "Porterhouse",
-    "blurb": "Williamsburg steakhouse. Cash or Peter Luger card — regular credit cards are not the plan. Reserve."
+    "dish": "Porterhouse and a bar burger",
+    "blurb": "Williamsburg steakhouse, and a 9.5/10 bar burger with a special sauce and a slab of bacon. Close to Red Hook Tavern, not quite it. Cash or a Peter Luger card. Arrive early for the bar."
   },
   {
     "id": "margon-midtown",
@@ -1478,7 +1479,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Burger",
     "dish": "Cheeseburger",
-    "blurb": "The Upper East Side tavern burger. No substitutions culture — get the cheeseburger."
+    "blurb": "Cash only. A big juicy patty with a lot of cheese, 9/10. No queue at 5pm on a weekday."
   },
   {
     "id": "l-b-spumoni-gardens-bensonhurst",
@@ -1618,7 +1619,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Korean",
     "dish": "Spicy kimchi tofu stew",
-    "blurb": "Tofu made in house. The kimchi soondubu is the bowl from the list."
+    "blurb": "Tofu made in house. The kimchi soondubu is the bowl from the list, and the queue is long."
   },
   {
     "id": "brennan-carr-sheepshead-bay",
@@ -1978,6 +1979,219 @@ window.FOOD_SPOTS = [
     "cuisine": "Deli",
     "dish": "Chopped cheese",
     "blurb": "The East Harlem chopped cheese counter, also called Blue Sky Deli or Hajji's."
+  },
+  {
+    "id": "xi-an-famous-foods-chinatown",
+    "name": "Xi'an Famous Foods",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "45 Bayard St, New York, NY 10013",
+    "lat": 40.715227318331,
+    "lng": -73.997538367674,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Hand-pulled noodles",
+    "blurb": "Xi'an noodles. This pin is the Chinatown shop on Bayard Street. There are other locations around the city."
+  },
+  {
+    "id": "cosme-flatiron",
+    "name": "Cosme",
+    "area": "Flatiron",
+    "borough": "Manhattan",
+    "address": "35 E 21st St, New York, NY 10010",
+    "lat": 40.739034075828,
+    "lng": -73.987450725089,
+    "tags": [
+      "mexican"
+    ],
+    "cuisine": "Mexican",
+    "dish": "Mexican",
+    "blurb": "One of the Mexican picks, with Atla, Aldama, and Taco Mix."
+  },
+  {
+    "id": "atla-noho",
+    "name": "Atla",
+    "area": "NoHo",
+    "borough": "Manhattan",
+    "address": "372 Lafayette St, New York, NY 10012",
+    "lat": 40.72726555033,
+    "lng": -73.993741255196,
+    "tags": [
+      "mexican"
+    ],
+    "cuisine": "Mexican",
+    "dish": "Mexican",
+    "blurb": "Casual Mexican on Lafayette Street, listed with Cosme, Aldama, and Taco Mix."
+  },
+  {
+    "id": "aldama-williamsburg",
+    "name": "Aldama",
+    "area": "Williamsburg",
+    "borough": "Brooklyn",
+    "address": "91 S 6th St, Brooklyn, NY 11249",
+    "lat": 40.710993028082,
+    "lng": -73.965150859835,
+    "tags": [
+      "mexican"
+    ],
+    "cuisine": "Mexican",
+    "dish": "Mexican",
+    "blurb": "Williamsburg Mexican, listed with Cosme, Atla, and Taco Mix."
+  },
+  {
+    "id": "taco-mix-east-harlem",
+    "name": "Taco Mix",
+    "area": "East Harlem",
+    "borough": "Manhattan",
+    "address": "234 E 116th St, New York, NY 10029",
+    "lat": 40.797318923129,
+    "lng": -73.938692202453,
+    "tags": [
+      "mexican"
+    ],
+    "cuisine": "Mexican",
+    "dish": "Tacos",
+    "blurb": "The East Harlem Taco Mix, listed with Cosme, Atla, and Aldama. There is more than one shop with this name."
+  },
+  {
+    "id": "rolo-s-ridgewood",
+    "name": "Rolo's",
+    "area": "Ridgewood",
+    "borough": "Queens",
+    "address": "853 Onderdonk Ave, Ridgewood, NY 11385",
+    "lat": 40.701952538304,
+    "lng": -73.903663521481,
+    "tags": [
+      "burger"
+    ],
+    "cuisine": "Burger",
+    "dish": "Double with onions",
+    "blurb": "Ranked second, behind Red Hook Tavern and ahead of Peter Luger. Burnt edges, cooked onions, crispy patties. 9.5/10."
+  },
+  {
+    "id": "lovely-s-old-fashioned-hell-s-kitchen",
+    "name": "Lovely's Old Fashioned",
+    "area": "Hell's Kitchen",
+    "borough": "Manhattan",
+    "address": "642 9th Ave, New York, NY 10036",
+    "lat": 40.760428921429,
+    "lng": -73.99108825074,
+    "tags": [
+      "burger"
+    ],
+    "cuisine": "Burger",
+    "dish": "Smash burger",
+    "blurb": "Written down as Lovelies. Juicy smash burger from the window, 8/10. The fries and cheese sauce were the weaker part."
+  },
+  {
+    "id": "au-cheval-tribeca",
+    "name": "Au Cheval",
+    "area": "Tribeca",
+    "borough": "Manhattan",
+    "address": "33 Cortlandt Alley, New York, NY 10013",
+    "lat": 40.717882236455,
+    "lng": -74.002128285284,
+    "tags": [
+      "burger"
+    ],
+    "cuisine": "Burger",
+    "dish": "Cheeseburger with bacon",
+    "blurb": "Bacon burger, 8.5/10. A lot of bread. The egg is the part people say not to skip."
+  },
+  {
+    "id": "diner-williamsburg",
+    "name": "Diner",
+    "area": "Williamsburg",
+    "borough": "Brooklyn",
+    "address": "85 Broadway, Brooklyn, NY 11249",
+    "lat": 40.710556276979,
+    "lng": -73.96562121207,
+    "tags": [
+      "burger",
+      "diner"
+    ],
+    "cuisine": "Burger",
+    "dish": "Burger",
+    "blurb": "Chunky patty with salad and cheese, 8/10. Part of a full meal, with friendly service."
+  },
+  {
+    "id": "kellogg-s-diner-williamsburg",
+    "name": "Kellogg's Diner",
+    "area": "Williamsburg",
+    "borough": "Brooklyn",
+    "address": "518 Metropolitan Ave, Brooklyn, NY 11211",
+    "lat": 40.714007917778,
+    "lng": -73.951700956325,
+    "tags": [
+      "diner",
+      "burger"
+    ],
+    "cuisine": "Diner",
+    "dish": "Burger, meatloaf, chicken and biscuits",
+    "blurb": "The burger was a 7/10. The meatloaf and the chicken and biscuits were better."
+  },
+  {
+    "id": "raoul-s-soho",
+    "name": "Raoul's",
+    "area": "SoHo",
+    "borough": "Manhattan",
+    "address": "180 Prince St, New York, NY 10012",
+    "lat": 40.726289466142,
+    "lng": -74.002078662839,
+    "tags": [
+      "burger"
+    ],
+    "cuisine": "Burger",
+    "dish": "Au poivre burger",
+    "blurb": "Twelve burgers a day, and only at the bar, not at a dinner table. Pickle mayo slaw and a peppercorn dip. 9.5/10. Second in line after arriving 30 minutes early on a weekday."
+  },
+  {
+    "id": "minetta-tavern-greenwich-village",
+    "name": "Minetta Tavern",
+    "area": "Greenwich Village",
+    "borough": "Manhattan",
+    "address": "113 MacDougal St, New York, NY 10012",
+    "lat": 40.729969201328,
+    "lng": -74.000604942997,
+    "tags": [
+      "burger"
+    ],
+    "cuisine": "Burger",
+    "dish": "Black Label burger",
+    "blurb": "Black Label burger with no cheese, 8.5/10. The patty and the onions are the point. The weekday lunch queue can be skipped by arriving at opening."
+  },
+  {
+    "id": "corner-bistro-west-village",
+    "name": "Corner Bistro",
+    "area": "West Village",
+    "borough": "Manhattan",
+    "address": "331 W 4th St, New York, NY 10014",
+    "lat": 40.738084104383,
+    "lng": -74.003799070339,
+    "tags": [
+      "burger"
+    ],
+    "cuisine": "Burger",
+    "dish": "Bistro burger",
+    "blurb": "Classic burger, 8.5/10, and the friendliest service of the burger run."
+  },
+  {
+    "id": "louis-lunch-new-haven",
+    "name": "Louis' Lunch",
+    "area": "New Haven",
+    "borough": "Connecticut",
+    "address": "261 Crown St, New Haven, CT 06511",
+    "lat": 41.30629016012,
+    "lng": -72.930225440069,
+    "tags": [
+      "burger"
+    ],
+    "cuisine": "Burger",
+    "dish": "Burger on white bread",
+    "blurb": "Not in New York. Sliced white bread, no ketchup, and they claim the first burger. 8.5/10."
   },
   {
     "id": "zafi-s-luncheonette-lower-east-side",

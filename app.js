@@ -276,7 +276,8 @@ function renderSheet() {
     list = placed.map(cardHtml).join("") + (loose.length ? `<h3 class="group-label">No fixed pin</h3>${loose.map(cardHtml).join("")}` : "");
   } else {
     const chunks = [];
-    for (const borough of [...BOROUGHS, ""]) {
+    const otherBoroughs = [...new Set(placed.map((spot) => spot.borough).filter((borough) => borough && !BOROUGHS.includes(borough)))];
+    for (const borough of [...BOROUGHS, ...otherBoroughs, ""]) {
       const group = placed.filter((spot) => (spot.borough || "") === borough);
       if (!group.length) continue;
       chunks.push(`<h3 class="group-label">${borough || "Other"}</h3>${group.map(cardHtml).join("")}`);
@@ -534,7 +535,9 @@ sheet.addEventListener("pointercancel", () => {
   sheet.dataset.size = state.sheet;
 });
 
-const bounds = L.latLngBounds(FOOD_SPOTS.filter((spot) => spot.lat != null).map((spot) => [spot.lat, spot.lng]));
+const inNewYork = (spot) =>
+  spot.lat != null && spot.lat >= 40.49 && spot.lat <= 40.92 && spot.lng >= -74.3 && spot.lng <= -73.68;
+const bounds = L.latLngBounds(FOOD_SPOTS.filter(inNewYork).map((spot) => [spot.lat, spot.lng]));
 const desktop = window.innerWidth >= 900;
 map.fitBounds(bounds, {
   paddingTopLeft: desktop ? [430, 40] : [24, 188],
