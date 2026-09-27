@@ -1,9 +1,10 @@
-const CACHE = "nyc-food-tour-v3";
+const CACHE = "nyc-food-tour-v5";
 const ASSETS = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
+  "./map-gestures.js",
   "./restaurants.js",
   "./manifest.webmanifest",
   "./icon.png",

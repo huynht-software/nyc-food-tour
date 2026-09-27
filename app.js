@@ -43,7 +43,8 @@ const state = {
   eaten: new Set(JSON.parse(localStorage.getItem(EATEN_KEY) || "[]")),
 };
 
-const map = L.map("map", { zoomControl: false, attributionControl: true }).setView([40.735, -73.97], 12);
+const map = L.map("map", { zoomControl: false, attributionControl: true, zoomSnap: 0.1 }).setView([40.735, -73.97], 12);
+enableDoubleTapDragZoom(map);
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   maxZoom: 19,
@@ -210,7 +211,13 @@ function drawUser() {
     }),
     L.marker([state.location.lat, state.location.lng], {
       interactive: false,
-      icon: L.divIcon({ className: "user-pin", html: '<span class="user-dot"></span>', iconSize: [16, 16] }),
+      title: "Your location",
+      icon: L.divIcon({
+        className: "user-pin",
+        html: '<svg class="user-location-icon" viewBox="0 0 28 28" aria-hidden="true"><circle class="user-location-ring" cx="14" cy="14" r="9"/><path class="user-location-crosshair" d="M14 2v4M14 22v4M2 14h4M22 14h4"/><circle class="user-location-dot" cx="14" cy="14" r="4"/></svg>',
+        iconSize: [28, 28],
+        iconAnchor: [14, 14],
+      }),
     }),
   ]).addTo(map);
 }

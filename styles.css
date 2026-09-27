@@ -530,15 +530,28 @@ h1 {
   margin-bottom: calc(64px + env(safe-area-inset-bottom));
 }
 
-.user-dot {
-  width: 16px;
-  height: 16px;
-  margin-left: -8px;
-  margin-top: -8px;
-  border: 2px solid white;
-  border-radius: 50%;
-  background: #1d6fe8;
-  box-shadow: 0 0 0 8px rgba(29, 111, 232, 0.2);
+.user-location-icon {
+  display: block;
+  width: 28px;
+  height: 28px;
+  filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.3));
+}
+
+.user-location-ring {
+  fill: white;
+  stroke: #1d6fe8;
+  stroke-width: 2;
+}
+
+.user-location-crosshair {
+  fill: none;
+  stroke: #1d6fe8;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.user-location-dot {
+  fill: #1d6fe8;
 }
 
 @media (min-width: 900px) {
