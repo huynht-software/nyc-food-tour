@@ -331,7 +331,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Pizza",
     "dish": "Slice",
-    "blurb": "A Village slice, a short walk from the other famous corners."
+    "blurb": "A Village slice, a short walk from the other famous corners. The notes suggest trying this and Prince Street Pizza if you have time."
   },
   {
     "id": "joe-s-pizza-greenwich-village",
@@ -346,7 +346,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Pizza",
     "dish": "Slice",
-    "blurb": "The Carmine Street shop. Plain or pepperoni, eaten on the sidewalk.",
+    "blurb": "The Carmine Street shop. Plain or pepperoni, eaten on the sidewalk. The notes call this a classic and associate the Carmine Street shop with the Tobey Maguire Spider-Man film.",
     "list": "4"
   },
   {
@@ -911,7 +911,7 @@ window.FOOD_SPOTS = [
       "chinese"
     ],
     "cuisine": "Fuzhou",
-    "dish": "Peanut butter noodles and dumplings",
+    "dish": "Peanut noodles and pork and chive dumplings",
     "blurb": "Fuzhou dumplings and peanut noodles on Eldridge Street."
   },
   {
@@ -1758,7 +1758,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Chinese",
     "dish": "Lanzhou beef noodles",
-    "blurb": "Beef noodle shop in Chinatown. The list ran this name together with a Fuzhou place."
+    "blurb": "Beef noodle shop in Chinatown. The list ran this name together with a Fuzhou place. Likely the “1915” pulled noodle place mentioned in the notes."
   },
   {
     "id": "1915-lanzhou-hand-pulled-noodles-kips-bay",
@@ -1774,7 +1774,7 @@ window.FOOD_SPOTS = [
     ],
     "cuisine": "Chinese",
     "dish": "Lanzhou beef noodles",
-    "blurb": "The Kips Bay location of the Lanzhou noodle shop."
+    "blurb": "The Kips Bay location of the Lanzhou noodle shop. Likely the “1915” pulled noodle place mentioned in the notes."
   },
   {
     "id": "sky-pavilion-times-square",
@@ -2615,6 +2615,197 @@ window.FOOD_SPOTS = [
     "cuisine": "Chinese",
     "dish": "Dumplings",
     "blurb": "The Bedford Avenue shop."
+  },
+  {
+    "id": "deluxe-green-bo-chinatown",
+    "name": "Deluxe Green Bo",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "66 Bayard St, New York, NY 10013",
+    "lat": 40.715536,
+    "lng": -73.998044,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Flat noodles with beef and soup dumplings",
+    "blurb": "The notes recommend flat noodles with beef and soup dumplings."
+  },
+  {
+    "id": "fong-on-chinatown",
+    "name": "Fong On",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "81 Division St, New York, NY 10002",
+    "lat": 40.714263,
+    "lng": -73.993526,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Tofu",
+    "blurb": "The tofu place from the notes, on Division Street."
+  },
+  {
+    "id": "wah-fung-no-1-chinatown",
+    "name": "Wah Fung No. 1",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "79 Chrystie St, New York, NY 10002",
+    "lat": 40.71727,
+    "lng": -73.994353,
+    "tags": [
+      "asian",
+      "chinese",
+      "bbq"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Roast pork over rice",
+    "blurb": "The notes recommend roast pork over rice."
+  },
+  {
+    "id": "west-rice-roll-king-chinatown",
+    "name": "West Rice Roll King",
+    "area": "Chinatown",
+    "borough": "Manhattan",
+    "address": "124 Hester St, New York, NY 10002",
+    "lat": 40.716502,
+    "lng": -73.993101,
+    "tags": [
+      "asian",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "dish": "Rice rolls",
+    "blurb": "Listed as “west king rice rolls” in the notes. The Hester Street rice roll shop."
+  },
+  {
+    "id": "brown-bag-sandwich-co-greenwich-village",
+    "name": "Brown Bag Sandwich Co.",
+    "area": "Greenwich Village",
+    "borough": "Manhattan",
+    "address": "218 Thompson St, New York, NY 10012",
+    "lat": 40.729023,
+    "lng": -73.999078,
+    "tags": [
+      "sandwich"
+    ],
+    "cuisine": "Sandwiches",
+    "dish": "Sandwiches",
+    "blurb": "The sandwich stop from the notes. This pin is the Greenwich Village branch; the notes do not specify a location."
+  },
+  {
+    "id": "lenwich-greenwich-village",
+    "name": "Lenwich",
+    "area": "Greenwich Village",
+    "borough": "Manhattan",
+    "address": "120 University Pl, New York, NY 10003",
+    "lat": 40.734625,
+    "lng": -73.992279,
+    "tags": [
+      "sandwich",
+      "deli"
+    ],
+    "cuisine": "Sandwiches",
+    "dish": "Sandwiches",
+    "blurb": "A sandwich stop from the notes. This pin is the University Place branch; the notes do not specify a location."
+  },
+  {
+    "id": "apollo-bagels-east-village",
+    "name": "Apollo Bagels",
+    "area": "East Village",
+    "borough": "Manhattan",
+    "address": "242 E 10th St, New York, NY 10003",
+    "lat": 40.728802,
+    "lng": -73.984652,
+    "tags": [
+      "bakery",
+      "breakfast"
+    ],
+    "cuisine": "Bagels",
+    "dish": "Bagel",
+    "blurb": "The bagel stop from the notes. This pin is the East Village branch; the notes do not specify a location."
+  },
+  {
+    "id": "zest-sushi-lower-east-side",
+    "name": "Zest Sushi",
+    "area": "Lower East Side",
+    "borough": "Manhattan",
+    "address": "249 Broome St, New York, NY 10002",
+    "lat": 40.718023,
+    "lng": -73.990102,
+    "tags": [
+      "asian",
+      "japanese",
+      "seafood"
+    ],
+    "cuisine": "Japanese",
+    "dish": "Sushi happy hour",
+    "blurb": "Recommended for sushi happy hour in the notes. Check the restaurant for current happy hour times and offers."
+  },
+  {
+    "id": "mikado-greenwich-village",
+    "name": "Mikado",
+    "area": "Greenwich Village",
+    "borough": "Manhattan",
+    "address": "109 W 14th St, New York, NY 10011",
+    "lat": 40.737516,
+    "lng": -73.997053,
+    "tags": [
+      "asian",
+      "japanese",
+      "seafood"
+    ],
+    "cuisine": "Japanese",
+    "dish": "Sushi happy hour",
+    "blurb": "The note writer prefers the fish here to Zest. This pin is the West 14th Street branch; the notes do not specify a location. Check current happy hour times and offers."
+  },
+  {
+    "id": "meskerem-ethiopian-cuisine-greenwich-village",
+    "name": "Meskerem Ethiopian Cuisine",
+    "area": "Greenwich Village",
+    "borough": "Manhattan",
+    "address": "124 MacDougal St, New York, NY 10012",
+    "lat": 40.730048,
+    "lng": -74.000358,
+    "tags": [
+      "ethiopian"
+    ],
+    "cuisine": "Ethiopian",
+    "dish": "",
+    "blurb": "Likely the unnamed Ethiopian place in the notes: across from Caffe Reggio in Greenwich Village. The identification is inferred from that location clue."
+  },
+  {
+    "id": "prince-street-pizza-nolita",
+    "name": "Prince Street Pizza",
+    "area": "Nolita",
+    "borough": "Manhattan",
+    "address": "27 Prince St, New York, NY 10012",
+    "lat": 40.722918,
+    "lng": -73.994466,
+    "tags": [
+      "pizza"
+    ],
+    "cuisine": "Pizza",
+    "dish": "Pizza",
+    "blurb": "The notes suggest trying this and Bleecker Street Pizza if you have time."
+  },
+  {
+    "id": "mcgee-s-pub-hell-s-kitchen",
+    "name": "McGee's Pub",
+    "area": "Hell's Kitchen",
+    "borough": "Manhattan",
+    "address": "240 W 55th St, New York, NY 10019",
+    "lat": 40.764874,
+    "lng": -73.982697,
+    "tags": [
+      "pub"
+    ],
+    "cuisine": "Irish pub",
+    "dish": "",
+    "blurb": "The How I Met Your Mother bar from the notes: the pub that inspired MacLaren’s."
   },
   {
     "id": "zafi-s-luncheonette-lower-east-side",
