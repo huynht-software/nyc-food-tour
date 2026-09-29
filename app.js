@@ -246,7 +246,7 @@ function cardHtml(spot) {
 function detailHtml(spot) {
   const miles = sortingByDistance() ? formatDistance(distance(spot)) : "";
   const where = [spot.cuisine, spot.area, spot.borough, miles].filter(Boolean).join(" · ");
-  const directions = spot.lat == null ? "" : `<a class="primary" href="${directionsUrl(spot)}" target="_blank" rel="noopener">Directions</a>`;
+  const mapsLink = spot.lat == null ? "" : `<a class="primary" href="${googleMapsPlaceUrl(spot)}" target="_blank" rel="noopener">View on Google Maps</a>`;
   const eaten = state.eaten.has(spot.id);
   return `<article class="detail">
     <button class="back" type="button" data-back>Back to the list</button>
@@ -257,19 +257,15 @@ function detailHtml(spot) {
     <p class="blurb">${escapeHtml(spot.blurb)}</p>
     ${spot.address ? `<p class="address">${escapeHtml(spot.address)}</p>` : ""}
     <div class="actions">
-      ${directions}
+      ${mapsLink}
       <button class="secondary${eaten ? " is-on" : ""}" type="button" data-eaten="${spot.id}">${eaten ? "Eaten" : "Mark eaten"}</button>
     </div>
   </article>`;
 }
 
-function directionsUrl(spot) {
-  const apple = /iPad|iPhone|iPod/.test(navigator.userAgent)
-    || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-  if (apple) {
-    return `https://maps.apple.com/?daddr=${spot.lat},${spot.lng}&q=${encodeURIComponent(spot.name)}`;
-  }
-  return `https://www.google.com/maps/dir/?api=1&destination=${spot.lat},${spot.lng}`;
+function googleMapsPlaceUrl(spot) {
+  const location = spot.address || [spot.area, spot.borough, "New York City"].filter(Boolean).join(", ");
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${spot.name}, ${location}`)}`;
 }
 
 function renderSheet() {
